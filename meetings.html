@@ -47,7 +47,7 @@ permalink: /meetings/
       <button class="schedule-more" type="button"
       aria-controls="group-schedule-rows" aria-expanded="false"
       data-schedule-more data-more-count="{{ extra_meetings }}"
-      data-more-label="more meetings" hidden>See {{ extra_meetings }} earlier
+      data-more-label="more meetings" hidden>See {{ extra_meetings }} more
       meetings</button>
     {% endif %}
   </section>
@@ -69,12 +69,12 @@ permalink: /meetings/
         </tbody>
       </table>
     </div>
-    {% if site.data.meetings.schedule.size > 5 %}
-      {% assign extra_meetings = site.data.meetings.schedule.size | minus: 5 %}
+    {% if site.data.meetings.archived_schedule.size > 5 %}
+      {% assign extra_meetings = site.data.meetings.archived_schedule.size | minus: 5 %}
       <button class="schedule-more" type="button"
       aria-controls="group-schedule-rows" aria-expanded="false"
       data-schedule-more data-more-count="{{ extra_meetings }}"
-      data-more-label="more meetings" hidden>See {{ extra_meetings }} earlier
+      data-more-label="more meetings" hidden>See {{ extra_meetings }} more
       meetings</button>
     {% endif %}
   </section>

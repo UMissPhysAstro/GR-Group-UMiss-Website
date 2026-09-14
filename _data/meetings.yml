@@ -8,13 +8,13 @@ schedule:
     research: Aniket
   - date_iso: '2026-09-14'
     paper: Arindam
-    research: Dipika
+    research: '-'
   - date_iso: '2026-09-21'
     paper: Daniel
     research: Dinis
   - date_iso: '2026-09-28'
     paper: Juan
-    research: Subhayu
+    research: Dipika
   - date_iso: '2026-10-05'
     paper: 'Dinis'
     research: Nauman
@@ -32,7 +32,7 @@ schedule:
     research: Arindam
   - date_iso: '2026-11-09'
     paper: Nauman
-    research: '-'
+    research: Subhayu
   - date_iso: '2026-11-16'
     paper: Subhayu
     research: Gokul
