@@ -11,9 +11,9 @@ volume: "983"
 issue: "2"
 pages: "99"
 doi: "10.3847/1538-4357/adb3a0"
-arxiv: ""
+arxiv: "2501.01495"
 openalex: "https://openalex.org/W4406092706"
-pdf: "https://dipot.ulb.ac.be/dspace/bitstream/2013/412599/3/sd.pdf"
+pdf: "https://arxiv.org/pdf/2501.01495"
 work_type: "article"
 ---
 

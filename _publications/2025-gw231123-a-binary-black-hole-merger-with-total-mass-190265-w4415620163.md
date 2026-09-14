@@ -11,9 +11,9 @@ volume: "993"
 issue: "1"
 pages: "L25"
 doi: "10.3847/2041-8213/ae0c9c"
-arxiv: ""
+arxiv: "2507.08219"
 openalex: "https://openalex.org/W4415620163"
-pdf: "https://orca.cardiff.ac.uk/id/eprint/182086/1/Abac_2025_ApJL_993_L25.pdf"
+pdf: "https://arxiv.org/pdf/2507.08219"
 work_type: "article"
 ---
 

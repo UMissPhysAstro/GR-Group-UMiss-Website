@@ -11,9 +11,9 @@ volume: "964"
 issue: "2"
 pages: "149"
 doi: "10.3847/1538-4357/ad1eed"
-arxiv: ""
+arxiv: "2308.13666"
 openalex: "https://openalex.org/W4386269533"
-pdf: "https://researchoutput.csu.edu.au/files/544062874/473004979_Published_article.pdf"
+pdf: "https://arxiv.org/pdf/2308.13666"
 work_type: "article"
 ---
 

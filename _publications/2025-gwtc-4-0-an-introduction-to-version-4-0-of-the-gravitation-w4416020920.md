@@ -11,9 +11,9 @@ volume: "995"
 issue: "1"
 pages: "L18"
 doi: "10.3847/2041-8213/ae0c06"
-arxiv: ""
+arxiv: "2508.18080"
 openalex: "https://openalex.org/W4416020920"
-pdf: "https://lirias.kuleuven.be/retrieve/691f2899-77cf-45a0-ba21-bc112e0ad821"
+pdf: "https://arxiv.org/pdf/2508.18080"
 work_type: "article"
 ---
 

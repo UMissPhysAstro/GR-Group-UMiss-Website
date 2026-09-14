@@ -11,9 +11,9 @@ volume: "970"
 issue: "2"
 pages: "L34"
 doi: "10.3847/2041-8213/ad5beb"
-arxiv: ""
+arxiv: "2404.04248"
 openalex: "https://openalex.org/W4394590979"
-pdf: "https://air.unimi.it/bitstream/2434/1107831/2/Abac_2024_ApJL_970_L34.pdf"
+pdf: "https://arxiv.org/pdf/2404.04248"
 work_type: "article"
 ---
 

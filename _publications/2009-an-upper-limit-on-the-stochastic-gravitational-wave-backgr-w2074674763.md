@@ -13,7 +13,7 @@ pages: "990"
 doi: "10.1038/nature08278"
 arxiv: "0910.5772"
 openalex: "https://openalex.org/W2074674763"
-pdf: "https://arxiv.org/pdf/0910.5772"
+pdf: "http://arxiv.org/pdf/0910.5772"
 work_type: "article"
 ---
 

@@ -11,9 +11,9 @@ volume: "1004"
 issue: "2"
 pages: "204"
 doi: "10.3847/1538-4357/ae6263"
-arxiv: ""
+arxiv: "2603.25808"
 openalex: "https://openalex.org/W7164818445"
-pdf: ""
+pdf: "https://arxiv.org/pdf/2603.25808"
 work_type: "article"
 ---
 

@@ -13,7 +13,7 @@ pages: "71"
 doi: "10.3847/1538-4357/ac0d52"
 arxiv: ""
 openalex: "https://openalex.org/W3157782589"
-pdf: "https://myresearchspace.uws.ac.uk/ws/files/51430790/2021_06_15_Abbott_et_al_Constraints_accepted.pdf"
+pdf: "https://www.zora.uzh.ch/id/eprint/211135/1/Abbott_2021_ApJ_922_71.pdf"
 work_type: "article"
 ---
 

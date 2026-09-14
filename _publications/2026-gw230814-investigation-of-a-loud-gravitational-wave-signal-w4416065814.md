@@ -11,9 +11,9 @@ volume: "1004"
 issue: "2"
 pages: "L23"
 doi: "10.3847/2041-8213/ae2ad3"
-arxiv: ""
+arxiv: "2509.07348"
 openalex: "https://openalex.org/W4416065814"
-pdf: "https://hdl.handle.net/21.11116/0000-0013-3CE6-5"
+pdf: "https://arxiv.org/pdf/2509.07348"
 work_type: "article"
 ---
 

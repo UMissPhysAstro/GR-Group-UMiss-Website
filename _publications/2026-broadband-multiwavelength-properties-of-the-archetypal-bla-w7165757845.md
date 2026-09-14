@@ -13,7 +13,7 @@ pages: "A224"
 doi: "10.1051/0004-6361/202659551"
 arxiv: ""
 openalex: "https://openalex.org/W7165757845"
-pdf: ""
+pdf: "https://knowledge.lancashire.ac.uk/id/eprint/59821/1/59821%20Principe%20et%20al.%20VOR.pdf"
 work_type: "article"
 ---
 

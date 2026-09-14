@@ -11,9 +11,9 @@ volume: "1004"
 issue: "2"
 pages: "L21"
 doi: "10.3847/2041-8213/ae447b"
-arxiv: ""
+arxiv: "2508.18081"
 openalex: "https://openalex.org/W4417256931"
-pdf: "https://myresearchspace.uws.ac.uk/ws/files/76843442/2026_02_06_Abac_et_al_Transients_final.pdf"
+pdf: "https://arxiv.org/pdf/2508.18081"
 work_type: "article"
 ---
 

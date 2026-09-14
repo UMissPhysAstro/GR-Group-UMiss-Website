@@ -13,7 +13,7 @@ pages: "114051"
 doi: "10.1088/0264-9381/25/11/114051"
 arxiv: "0802.4320"
 openalex: "https://openalex.org/W2141297303"
-pdf: "https://arxiv.org/pdf/0802.4320"
+pdf: "http://arxiv.org/pdf/0802.4320"
 work_type: "article"
 ---
 

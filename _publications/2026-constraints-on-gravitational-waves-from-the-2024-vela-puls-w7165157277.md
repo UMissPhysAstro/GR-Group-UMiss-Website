@@ -11,9 +11,9 @@ volume: "1005"
 issue: "1"
 pages: "12"
 doi: "10.3847/1538-4357/ae63bc"
-arxiv: ""
+arxiv: "2512.17990"
 openalex: "https://openalex.org/W7165157277"
-pdf: "https://myresearchspace.uws.ac.uk/ws/files/76844403/2026_04_04_Abac_et_al_Constraints_final.pdf"
+pdf: "https://arxiv.org/pdf/2512.17990"
 work_type: "article"
 ---
 
