@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1103/mjfs-m6t7"
 arxiv: ""
 openalex: "https://openalex.org/W7163895681"
-pdf: ""
+pdf: "https://eprints.gla.ac.uk/394160/1/394160.pdf"
 work_type: "article"
 ---
 
