@@ -3,8 +3,8 @@ generated: true
 title: "Population inference of spin-induced quadrupole moments as a probe for nonblack hole compact binaries"
 date: "2022-05-27"
 year: 2022
-authors_display: "M. Saleem, N. V. Krishnendu, Abhirup Ghosh, Anuradha Gupta, W. Del Pozzo, Archisman Ghosh, K. G. Arun"
-authors: ["M. Saleem", "N. V. Krishnendu", "Abhirup Ghosh", "Anuradha Gupta", "W. Del Pozzo", "Archisman Ghosh", "K. G. Arun"]
+authors_display: "Muhammed Saleem, N. V. Krishnendu, Abhirup Ghosh, Anuradha Gupta, W. Del Pozzo, Archisman Ghosh, K. G. Arun"
+authors: ["Muhammed Saleem", "N. V. Krishnendu", "Abhirup Ghosh", "Anuradha Gupta", "W. Del Pozzo", "Archisman Ghosh", "K. G. Arun"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "105"

@@ -3,8 +3,8 @@ generated: true
 title: "Toward inference of overlapping gravitational-wave signals"
 date: "2022-05-11"
 year: 2022
-authors_display: "Elia Pizzati, S. Sachdev, Anuradha Gupta, B. S. Sathyaprakash"
-authors: ["Elia Pizzati", "S. Sachdev", "Anuradha Gupta", "B. S. Sathyaprakash"]
+authors_display: "Elia Pizzati, S. Sachdev, Anuradha Gupta, Bangalore S Sathyaprakash"
+authors: ["Elia Pizzati", "S. Sachdev", "Anuradha Gupta", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "105"

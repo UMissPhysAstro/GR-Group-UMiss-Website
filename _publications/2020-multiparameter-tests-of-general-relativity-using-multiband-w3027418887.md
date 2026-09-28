@@ -3,8 +3,8 @@ generated: true
 title: "Multiparameter Tests of General Relativity Using Multiband Gravitational-Wave Observations"
 date: "2020-11-10"
 year: 2020
-authors_display: "Anuradha Gupta, Sayantani Datta, Shilpa Kastha, Ssohrab Borhanian, K. G. Arun, B. S. Sathyaprakash"
-authors: ["Anuradha Gupta", "Sayantani Datta", "Shilpa Kastha", "Ssohrab Borhanian", "K. G. Arun", "B. S. Sathyaprakash"]
+authors_display: "Anuradha Gupta, Sayantani Datta, Shilpa Kastha, Ssohrab Borhanian, K. G. Arun, Bangalore S Sathyaprakash"
+authors: ["Anuradha Gupta", "Sayantani Datta", "Shilpa Kastha", "Ssohrab Borhanian", "K. G. Arun", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical Review Letters"
 volume: "125"

@@ -3,8 +3,8 @@ generated: true
 title: "Reconstructing the Genealogy of LIGO-Virgo Black Holes"
 date: "2024-10-29"
 year: 2024
-authors_display: "Parthapratim Mahapatra, Debatri Chattopadhyay, Anuradha Gupta, Fabio Antonini, M. Favata, B. S. Sathyaprakash, K. G. Arun"
-authors: ["Parthapratim Mahapatra", "Debatri Chattopadhyay", "Anuradha Gupta", "Fabio Antonini", "M. Favata", "B. S. Sathyaprakash", "K. G. Arun"]
+authors_display: "Parthapratim Mahapatra, Debatri Chattopadhyay, Anuradha Gupta, Fabio Antonini, M. Favata, Bangalore S Sathyaprakash, K. G. Arun"
+authors: ["Parthapratim Mahapatra", "Debatri Chattopadhyay", "Anuradha Gupta", "Fabio Antonini", "M. Favata", "Bangalore S Sathyaprakash", "K. G. Arun"]
 group_authors: ["Anuradha Gupta"]
 venue: "The Astrophysical Journal"
 volume: "975"

@@ -3,8 +3,8 @@ generated: true
 title: "Parsec-Scale Jet Behavior of the Quasar 3C 454.3 during the High Gamma-Ray States in 2009 and 2010"
 date: "2012-05-02"
 year: 2012
-authors_display: "S. G. Jorstad, Alan P. Marscher, M. Joshi, Nicholas R. MacDonald, Terri L. Scott, Karen E. Williamson, Paul S. Smith, V. M. Larionov, I. Agudo, Mark Gurwell"
-authors: ["S. G. Jorstad", "Alan P. Marscher", "M. Joshi", "Nicholas R. MacDonald", "Terri L. Scott", "Karen E. Williamson", "Paul S. Smith", "V. M. Larionov", "I. Agudo", "Mark Gurwell"]
+authors_display: "S. G. Jorstad, Alan P. Marscher, M. Joshi, Nicholas R. MacDonald, Scott, T. L., Karen E. Williamson, Paul S. Smith, V. M. Larionov, I. Agudo, Mark Gurwell"
+authors: ["S. G. Jorstad", "Alan P. Marscher", "M. Joshi", "Nicholas R. MacDonald", "Scott, T. L.", "Karen E. Williamson", "Paul S. Smith", "V. M. Larionov", "I. Agudo", "Mark Gurwell"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "arXiv (Cornell University)"
 volume: ""

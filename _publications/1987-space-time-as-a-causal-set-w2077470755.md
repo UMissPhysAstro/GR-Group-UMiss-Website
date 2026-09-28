@@ -3,8 +3,8 @@ generated: true
 title: "Space-time as a causal set"
 date: "1987-08-03"
 year: 1987
-authors_display: "L. Bombelli, Joohan Lee, David Meyer, Rafael D. Sorkin"
-authors: ["L. Bombelli", "Joohan Lee", "David Meyer", "Rafael D. Sorkin"]
+authors_display: "L. Bombelli, Joohan Lee, DAVID A. MEYER, Rafael D. Sorkin"
+authors: ["L. Bombelli", "Joohan Lee", "DAVID A. MEYER", "Rafael D. Sorkin"]
 group_authors: ["Luca Bombelli"]
 venue: "Physical Review Letters"
 volume: "59"

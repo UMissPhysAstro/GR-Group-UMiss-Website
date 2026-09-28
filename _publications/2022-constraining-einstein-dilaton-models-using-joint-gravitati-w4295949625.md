@@ -3,8 +3,8 @@ generated: true
 title: "Constraining Einstein-dilaton models using joint gravitational-wave and electromagnetic observations"
 date: "2022-09-15"
 year: 2022
-authors_display: "Arnab Dhani, Anuradha Gupta, B. S. Sathyaprakash"
-authors: ["Arnab Dhani", "Anuradha Gupta", "B. S. Sathyaprakash"]
+authors_display: "A. Dhani, Anuradha Gupta, Bangalore S Sathyaprakash"
+authors: ["A. Dhani", "Anuradha Gupta", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "106"

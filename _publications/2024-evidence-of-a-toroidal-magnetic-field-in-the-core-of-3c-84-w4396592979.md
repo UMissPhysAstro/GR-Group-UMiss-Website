@@ -4,7 +4,7 @@ title: "Evidence of a toroidal magnetic field in the core of 3C 84"
 date: "2024-05-02"
 year: 2024
 authors_display: "Georgios Filippos Paraschos, L. C. Debbrecht, Joana A. Kramer, Efthalia Traianou, Ioannis Liodakis, T. P. Krichbaum, Jae-Young Kim, Michaël Janssen, and 8 collaborators"
-authors: ["Georgios Filippos Paraschos", "L. C. Debbrecht", "Joana A. Kramer", "Efthalia Traianou", "Ioannis Liodakis", "T. P. Krichbaum", "Jae-Young Kim", "Michaël Janssen", "Dhanya G. Nair", "T. Savolainen", "E. Ros", "U. Bach", "Jeffrey A. Hodgson", "Mikhail Lisakov", "Nicholas R. MacDonald", "J. A. Zensus"]
+authors: ["Georgios Filippos Paraschos", "L. C. Debbrecht", "Joana A. Kramer", "Efthalia Traianou", "Ioannis Liodakis", "T. P. Krichbaum", "Jae-Young Kim", "Michaël Janssen", "Dhanya G. Nair", "T. Savolainen", "Eduardo Ros", "U. Bach", "Jeffrey A. Hodgson", "Mikhail Lisakov", "Nicholas R. MacDonald", "J. A. Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "686"

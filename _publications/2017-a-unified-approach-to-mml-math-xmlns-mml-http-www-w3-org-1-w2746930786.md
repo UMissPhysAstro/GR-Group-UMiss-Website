@@ -3,8 +3,8 @@ generated: true
 title: "A unified approach to χ2 discriminators for searches of gravitational waves from compact binary coalescences"
 date: "2017-11-21"
 year: 2017
-authors_display: "Sanjeev Dhurandhar, Anuradha Gupta, B. U. Gadre, S. Bose"
-authors: ["Sanjeev Dhurandhar", "Anuradha Gupta", "B. U. Gadre", "S. Bose"]
+authors_display: "Sanjeev Dhurandhar, Anuradha Gupta, B. U. Gadre, Sukanta Bose"
+authors: ["Sanjeev Dhurandhar", "Anuradha Gupta", "B. U. Gadre", "Sukanta Bose"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "96"

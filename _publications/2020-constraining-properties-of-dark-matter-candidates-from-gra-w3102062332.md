@@ -3,8 +3,8 @@ generated: true
 title: "Constraining properties of dark matter candidates from gravitational-wave observations"
 date: "2020-04-19"
 year: 2020
-authors_display: "D. Singh, Anuradha Gupta, B. S. Sathyaprakash"
-authors: ["D. Singh", "Anuradha Gupta", "B. S. Sathyaprakash"]
+authors_display: "D. Singh, Anuradha Gupta, Bangalore S Sathyaprakash"
+authors: ["D. Singh", "Anuradha Gupta", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Bulletin of the American Physical Society"
 volume: ""

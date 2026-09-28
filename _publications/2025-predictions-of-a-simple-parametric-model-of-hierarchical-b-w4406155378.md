@@ -3,8 +3,8 @@ generated: true
 title: "Predictions of a simple parametric model of hierarchical black hole mergers"
 date: "2025-01-08"
 year: 2025
-authors_display: "Parthapratim Mahapatra, Debatri Chattopadhyay, Anuradha Gupta, M. Favata, B. S. Sathyaprakash, K. G. Arun"
-authors: ["Parthapratim Mahapatra", "Debatri Chattopadhyay", "Anuradha Gupta", "M. Favata", "B. S. Sathyaprakash", "K. G. Arun"]
+authors_display: "Parthapratim Mahapatra, Debatri Chattopadhyay, Anuradha Gupta, M. Favata, Bangalore S Sathyaprakash, K. G. Arun"
+authors: ["Parthapratim Mahapatra", "Debatri Chattopadhyay", "Anuradha Gupta", "M. Favata", "Bangalore S Sathyaprakash", "K. G. Arun"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "111"

@@ -3,8 +3,8 @@ generated: true
 title: "Chaos and fractals of the black hole photon ring"
 date: "2026-03-09"
 year: 2026
-authors_display: "Roman Berens, Peter Galison, Trevor Gravely, Alexandru Lupsasca, Leo C. Stein"
-authors: ["Roman Berens", "Peter Galison", "Trevor Gravely", "Alexandru Lupsasca", "Leo C. Stein"]
+authors_display: "Roman Berens, Peter Louis Galison, Trevor Gravely, Alexandru Lupsasca, Leo C. Stein"
+authors: ["Roman Berens", "Peter Louis Galison", "Trevor Gravely", "Alexandru Lupsasca", "Leo C. Stein"]
 group_authors: ["Leo C. Stein"]
 venue: "arXiv (Cornell University)"
 volume: ""

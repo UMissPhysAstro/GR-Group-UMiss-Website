@@ -3,8 +3,8 @@ generated: true
 title: "First GMVA observations with the upgraded NOEMA facility: VLBI imaging of BL Lacertae in a flaring state"
 date: "2023-11-21"
 year: 2023
-authors_display: "Dae-Won Kim, Michaël Janssen, T. P. Krichbaum, B. Boccardi, Nicholas R. MacDonald, E. Ros, A. P. Lobanov, J. A. Zensus"
-authors: ["Dae-Won Kim", "Michaël Janssen", "T. P. Krichbaum", "B. Boccardi", "Nicholas R. MacDonald", "E. Ros", "A. P. Lobanov", "J. A. Zensus"]
+authors_display: "Dae-Won Kim, Michaël Janssen, T. P. Krichbaum, Bia Boccardi, Nicholas R. MacDonald, Eduardo Ros, Andrei P. Lobanov, J. A. Zensus"
+authors: ["Dae-Won Kim", "Michaël Janssen", "T. P. Krichbaum", "Bia Boccardi", "Nicholas R. MacDonald", "Eduardo Ros", "Andrei P. Lobanov", "J. A. Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "680"

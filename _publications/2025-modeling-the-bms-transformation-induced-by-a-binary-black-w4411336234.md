@@ -3,8 +3,8 @@ generated: true
 title: "Modeling the BMS transformation induced by a binary black hole merger"
 date: "2025-06-16"
 year: 2025
-authors_display: "Guido Da Re, Keefe Mitman, Leo C. Stein, Mark A. Scheel, Saul A. Teukolsky, Dongze Sun, Michael Boyle, Nils Deppe, and 7 collaborators"
-authors: ["Guido Da Re", "Keefe Mitman", "Leo C. Stein", "Mark A. Scheel", "Saul A. Teukolsky", "Dongze Sun", "Michael Boyle", "Nils Deppe", "Scott E. Field", "Larry Kidder", "Jordan Moxon", "Kyle C. Nelli", "William Throwe", "Vijay Varma", "Nils L. Vu"]
+authors_display: "Guido Da Re, Keefe Mitman, Leo C. Stein, Mark Scheel, Saul A. Teukolsky, Dongze Sun, Michael Boyle, Nils Deppe, and 7 collaborators"
+authors: ["Guido Da Re", "Keefe Mitman", "Leo C. Stein", "Mark Scheel", "Saul A. Teukolsky", "Dongze Sun", "Michael Boyle", "Nils Deppe", "Scott E. Field", "Larry Kidder", "Jordan Moxon", "Kyle C. Nelli", "William Throwe", "Vijay Varma", "Nils L. Vu"]
 group_authors: ["Leo C. Stein"]
 venue: "Physical review. D/Physical review. D."
 volume: "111"

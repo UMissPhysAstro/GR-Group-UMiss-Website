@@ -3,8 +3,8 @@ generated: true
 title: "Data files for \"Tracing the evolution of eccentric precessing binary black holes: a hybrid approach\""
 date: "2025-05-12"
 year: 2025
-authors_display: "Amitesh Singh, Nathan K. Johnson-McDaniel, Anuradha Gupta, K. S. Phukon"
-authors: ["Amitesh Singh", "Nathan K. Johnson-McDaniel", "Anuradha Gupta", "K. S. Phukon"]
+authors_display: "Amitesh Singh, Nathan K. Johnson-McDaniel, Anuradha Gupta, Khun Sang Phukon"
+authors: ["Amitesh Singh", "Nathan K. Johnson-McDaniel", "Anuradha Gupta", "Khun Sang Phukon"]
 group_authors: ["Amitesh Singh", "Anuradha Gupta"]
 venue: "arXiv (Cornell University)"
 volume: ""

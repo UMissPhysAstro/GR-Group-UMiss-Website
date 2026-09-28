@@ -3,8 +3,8 @@ generated: true
 title: "Brans-Dicke theory in Bondi-Sachs form: Asymptotically flat solutions, asymptotic symmetries, and gravitational-wave memory effects"
 date: "2021-05-14"
 year: 2021
-authors_display: "Shammi Tahura, David A. Nichols, Alexander Saffer, Leo C. Stein, Kent Yagi"
-authors: ["Shammi Tahura", "David A. Nichols", "Alexander Saffer", "Leo C. Stein", "Kent Yagi"]
+authors_display: "Shammi Tahura, David Andrew Nichols, Alexander Saffer, Leo C. Stein, Kent Yagi"
+authors: ["Shammi Tahura", "David Andrew Nichols", "Alexander Saffer", "Leo C. Stein", "Kent Yagi"]
 group_authors: ["Leo C. Stein"]
 venue: "Physical review. D/Physical review. D."
 volume: "103"

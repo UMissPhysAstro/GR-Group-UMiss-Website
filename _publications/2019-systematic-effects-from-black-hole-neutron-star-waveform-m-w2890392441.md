@@ -3,8 +3,8 @@ generated: true
 title: "Systematic effects from black hole-neutron star waveform model uncertainties on the neutron star equation of state"
 date: "2019-01-31"
 year: 2019
-authors_display: "K. Chakravarti, Anuradha Gupta, S. Bose, Matthew Duez, Jesús Caro, Wyatt Brege, François Foucart, Shaon Ghosh, and 7 collaborators"
-authors: ["K. Chakravarti", "Anuradha Gupta", "S. Bose", "Matthew Duez", "Jesús Caro", "Wyatt Brege", "François Foucart", "Shaon Ghosh", "Koutarou Kyutoku", "B. D. Lackey", "Masaru Shibata", "Daniel A. Hemberger", "Lawrence E. Kidder", "Harald Pfeiffer", "Mark Scheel"]
+authors_display: "K. Chakravarti, Anuradha Gupta, Sukanta Bose, Matthew Duez, Jesus Caro, Wyatt Brege, François Foucart, Shaon Ghosh, and 7 collaborators"
+authors: ["K. Chakravarti", "Anuradha Gupta", "Sukanta Bose", "Matthew Duez", "Jesus Caro", "Wyatt Brege", "François Foucart", "Shaon Ghosh", "Koutarou Kyutoku", "Benjamin D. Lackey", "Masaru Shibata", "Daniel A. Hemberger", "Larry Kidder", "Harald Pfeiffer", "Mark Scheel"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "99"

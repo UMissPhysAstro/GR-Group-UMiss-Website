@@ -3,8 +3,8 @@ generated: true
 title: "Effect of orbital eccentricity on the dynamics of precessing compact binaries"
 date: "2019-12-02"
 year: 2019
-authors_display: "K. S. Phukon, Anuradha Gupta, S. Bose, Pankaj Jain"
-authors: ["K. S. Phukon", "Anuradha Gupta", "S. Bose", "Pankaj Jain"]
+authors_display: "Khun Sang Phukon, Anuradha Gupta, Sukanta Bose, Pankaj Jain"
+authors: ["Khun Sang Phukon", "Anuradha Gupta", "Sukanta Bose", "Pankaj Jain"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "100"

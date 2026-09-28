@@ -3,8 +3,8 @@ generated: true
 title: "Surprises in a Classic Boundary-Layer Problem"
 date: "2023-02-01"
 year: 2023
-authors_display: "William Clark, Mario W. Gomes, Arnaldo Rodriguez‐Gonzalez, Leo C. Stein, Steven H. Strogatz"
-authors: ["William Clark", "Mario W. Gomes", "Arnaldo Rodriguez‐Gonzalez", "Leo C. Stein", "Steven H. Strogatz"]
+authors_display: "William Arthur Clark, Mario W. Gomes, Arnaldo Rodriguez‐Gonzalez, Leo C. Stein, Steven H. Strogatz"
+authors: ["William Arthur Clark", "Mario W. Gomes", "Arnaldo Rodriguez‐Gonzalez", "Leo C. Stein", "Steven H. Strogatz"]
 group_authors: ["Leo C. Stein"]
 venue: "SIAM Review"
 volume: "65"

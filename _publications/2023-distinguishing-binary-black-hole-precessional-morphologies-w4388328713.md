@@ -3,8 +3,8 @@ generated: true
 title: "Distinguishing binary black hole precessional morphologies with gravitational wave observations"
 date: "2023-11-03"
 year: 2023
-authors_display: "Nathan K. Johnson-McDaniel, K. S. Phukon, N. V. Krishnendu, Anuradha Gupta"
-authors: ["Nathan K. Johnson-McDaniel", "K. S. Phukon", "N. V. Krishnendu", "Anuradha Gupta"]
+authors_display: "Nathan K. Johnson-McDaniel, Khun Sang Phukon, N. V. Krishnendu, Anuradha Gupta"
+authors: ["Nathan K. Johnson-McDaniel", "Khun Sang Phukon", "N. V. Krishnendu", "Anuradha Gupta"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "108"

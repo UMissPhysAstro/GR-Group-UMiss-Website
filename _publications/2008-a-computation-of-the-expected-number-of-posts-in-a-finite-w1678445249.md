@@ -3,8 +3,8 @@ generated: true
 title: "A Computation of the Expected Number of Posts in a Finite Random Graph Order"
 date: "2008-09-12"
 year: 2008
-authors_display: "L. Bombelli, Itai Seggev, Sam Watson"
-authors: ["L. Bombelli", "Itai Seggev", "Sam Watson"]
+authors_display: "L. Bombelli, Itai Seggev, Watson, Sam"
+authors: ["L. Bombelli", "Itai Seggev", "Watson, Sam"]
 group_authors: ["Luca Bombelli"]
 venue: "arXiv (Cornell University)"
 volume: ""

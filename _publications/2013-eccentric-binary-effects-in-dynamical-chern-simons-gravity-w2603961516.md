@@ -3,8 +3,8 @@ generated: true
 title: "Eccentric binary effects in dynamical Chern-Simons gravity"
 date: "2013-04-13"
 year: 2013
-authors_display: "Leo C. Stein, Kent Yagi, Nicol 'as Yunes, Takahiro Tanaka"
-authors: ["Leo C. Stein", "Kent Yagi", "Nicol 'as Yunes", "Takahiro Tanaka"]
+authors_display: "Leo C. Stein, Kent Yagi, Nicolás Yunes, Takahiro Tanaka"
+authors: ["Leo C. Stein", "Kent Yagi", "Nicolás Yunes", "Takahiro Tanaka"]
 group_authors: ["Leo C. Stein"]
 venue: "Bulletin of the American Physical Society"
 volume: "2013"

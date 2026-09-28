@@ -3,8 +3,8 @@ generated: true
 title: "A Trade Study for the Cosmic Explorer"
 date: "2020-04-20"
 year: 2020
-authors_display: "Ssohrab Borhanian, Anuradha Gupta, B. S. Sathyaprakash"
-authors: ["Ssohrab Borhanian", "Anuradha Gupta", "B. S. Sathyaprakash"]
+authors_display: "Ssohrab Borhanian, Anuradha Gupta, Bangalore S Sathyaprakash"
+authors: ["Ssohrab Borhanian", "Anuradha Gupta", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Bulletin of the American Physical Society"
 volume: ""

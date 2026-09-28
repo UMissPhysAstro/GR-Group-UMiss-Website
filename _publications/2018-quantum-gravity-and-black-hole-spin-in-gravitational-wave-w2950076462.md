@@ -3,8 +3,8 @@ generated: true
 title: "Quantum gravity and black hole spin in gravitational wave observations: a test of the Bekenstein-Hawking entropy"
 date: "2018-12-12"
 year: 2018
-authors_display: "Eugenio Bianchi, Anuradha Gupta, Hal M. Haggard, B. S. Sathyaprakash"
-authors: ["Eugenio Bianchi", "Anuradha Gupta", "Hal M. Haggard", "B. S. Sathyaprakash"]
+authors_display: "Eugenio Bianchi, Anuradha Gupta, Hal M. Haggard, Bangalore S Sathyaprakash"
+authors: ["Eugenio Bianchi", "Anuradha Gupta", "Hal M. Haggard", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "arXiv (Cornell University)"
 volume: ""

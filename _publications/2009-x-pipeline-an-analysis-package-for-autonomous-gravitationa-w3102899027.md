@@ -3,8 +3,8 @@ generated: true
 title: "X-Pipeline: an analysis package for autonomous gravitational-wave burst searches"
 date: "2009-09-01"
 year: 2009
-authors_display: "P. J. Sutton, Gareth Jones, Shourov Chatterji, Kalmus, P., I. Leonor, Stephen Poprocki, Rollins, Jameson, Antony Searle, Leo C. Stein, Massimo Tinto, M. Wąs"
-authors: ["P. J. Sutton", "Gareth Jones", "Shourov Chatterji", "Kalmus, P.", "I. Leonor", "Stephen Poprocki", "Rollins, Jameson", "Antony Searle", "Leo C. Stein", "Massimo Tinto", "M. Wąs"]
+authors_display: "Patrick J. Sutton, Gareth A. Jones, Shourov Chatterji, Kalmus, P., Isabel Leonor, Stephen Poprocki, Rollins, Jameson, Antony Searle, Leo C. Stein, Massimo Tinto, Michał Wąs"
+authors: ["Patrick J. Sutton", "Gareth A. Jones", "Shourov Chatterji", "Kalmus, P.", "Isabel Leonor", "Stephen Poprocki", "Rollins, Jameson", "Antony Searle", "Leo C. Stein", "Massimo Tinto", "Michał Wąs"]
 group_authors: ["Leo C. Stein"]
 venue: "DSpace@MIT (Massachusetts Institute of Technology)"
 volume: ""

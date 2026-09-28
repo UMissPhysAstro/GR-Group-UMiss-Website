@@ -3,8 +3,8 @@ generated: true
 title: "Bayesian inference of overlapping gravitational wave signals"
 date: "2021-02-15"
 year: 2021
-authors_display: "Elia Pizzati, S. Sachdev, Anuradha Gupta, B. S. Sathyaprakash"
-authors: ["Elia Pizzati", "S. Sachdev", "Anuradha Gupta", "B. S. Sathyaprakash"]
+authors_display: "Elia Pizzati, S. Sachdev, Anuradha Gupta, Bangalore S Sathyaprakash"
+authors: ["Elia Pizzati", "S. Sachdev", "Anuradha Gupta", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "arXiv (Cornell University)"
 volume: ""

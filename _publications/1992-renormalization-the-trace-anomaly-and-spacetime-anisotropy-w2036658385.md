@@ -3,8 +3,8 @@ generated: true
 title: "Renormalization, the trace anomaly and spacetime anisotropy"
 date: "1992-10-01"
 year: 1992
-authors_display: "L. Bombelli, E. Gunzig, Alexei V. Nesteruk"
-authors: ["L. Bombelli", "E. Gunzig", "Alexei V. Nesteruk"]
+authors_display: "L. Bombelli, E. Gunzig, Alexei Vsevolodovich Nesteruk"
+authors: ["L. Bombelli", "E. Gunzig", "Alexei Vsevolodovich Nesteruk"]
 group_authors: ["Luca Bombelli"]
 venue: "Classical and Quantum Gravity"
 volume: "9"

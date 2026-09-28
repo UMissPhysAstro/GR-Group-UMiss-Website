@@ -3,8 +3,8 @@ generated: true
 title: "Synthetic spectra from particle-in-cell simulations of relativistic jets containing an initial toroidal magnetic field"
 date: "2025-05-15"
 year: 2025
-authors_display: "I. Duţan, Ken‐Ichi Nishikawa, A. Meli, Oleh Kobzar, Christoph Köhn, Yosuke Mizuno, Nicholas R. MacDonald, José L. Gómez, Kouichi Hirotani"
-authors: ["I. Duţan", "Ken‐Ichi Nishikawa", "A. Meli", "Oleh Kobzar", "Christoph Köhn", "Yosuke Mizuno", "Nicholas R. MacDonald", "José L. Gómez", "Kouichi Hirotani"]
+authors_display: "I. Duţan, Ken‐Ichi Nishikawa, Athina Meli, Oleh Kobzar, Christoph Köhn, Yosuke Mizuno, Nicholas R. MacDonald, José Luis Gómez, Kouichi Hirotani"
+authors: ["I. Duţan", "Ken‐Ichi Nishikawa", "Athina Meli", "Oleh Kobzar", "Christoph Köhn", "Yosuke Mizuno", "Nicholas R. MacDonald", "José Luis Gómez", "Kouichi Hirotani"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Monthly Notices of the Royal Astronomical Society"
 volume: "540"

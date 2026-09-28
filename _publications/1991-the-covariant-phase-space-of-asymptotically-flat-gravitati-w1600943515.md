@@ -3,8 +3,8 @@ generated: true
 title: "THE COVARIANT PHASE SPACE OF ASYMPTOTICALLY FLAT GRAVITATIONAL FIELDS"
 date: "1991-01-01"
 year: 1991
-authors_display: "Abhay Ashtekar, L. Bombelli, Oscar Reula"
-authors: ["Abhay Ashtekar", "L. Bombelli", "Oscar Reula"]
+authors_display: "Abhay Ashtekar, L. Bombelli, Oscar A. Reula"
+authors: ["Abhay Ashtekar", "L. Bombelli", "Oscar A. Reula"]
 group_authors: ["Luca Bombelli"]
 venue: "Elsevier eBooks"
 volume: ""

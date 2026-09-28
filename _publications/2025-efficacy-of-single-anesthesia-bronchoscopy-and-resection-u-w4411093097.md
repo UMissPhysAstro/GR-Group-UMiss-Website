@@ -3,8 +3,8 @@ generated: true
 title: "Efficacy of Single-Anesthesia Bronchoscopy and Resection Using the Shape-Sensing Robotic Navigational Platform"
 date: "2025-06-06"
 year: 2025
-authors_display: "Bhupaul Ramsuchit, Nicholas R. MacDonald, Matthew Johnston, Juan C. Escalon, Luis Javier Herrera"
-authors: ["Bhupaul Ramsuchit", "Nicholas R. MacDonald", "Matthew Johnston", "Juan C. Escalon", "Luis Javier Herrera"]
+authors_display: "Bhupaul Ramsuchit, Nicholas R. MacDonald, Matthew A. Johnston, Juan C. Escalon, Luis Javier Herrera"
+authors: ["Bhupaul Ramsuchit", "Nicholas R. MacDonald", "Matthew A. Johnston", "Juan C. Escalon", "Luis Javier Herrera"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Innovations Technology and Techniques in Cardiothoracic and Vascular Surgery"
 volume: "20"

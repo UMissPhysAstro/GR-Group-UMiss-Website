@@ -3,8 +3,8 @@ generated: true
 title: "Bombelliet al. reply"
 date: "1988-02-15"
 year: 1988
-authors_display: "L. Bombelli, Joohan Lee, David Meyer, Rafael D. Sorkin"
-authors: ["L. Bombelli", "Joohan Lee", "David Meyer", "Rafael D. Sorkin"]
+authors_display: "L. Bombelli, Joohan Lee, DAVID A. MEYER, Rafael D. Sorkin"
+authors: ["L. Bombelli", "Joohan Lee", "DAVID A. MEYER", "Rafael D. Sorkin"]
 group_authors: ["Luca Bombelli"]
 venue: "Physical Review Letters"
 volume: "60"

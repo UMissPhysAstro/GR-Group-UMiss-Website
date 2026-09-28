@@ -3,8 +3,8 @@ generated: true
 title: "Fabrication of Pupil Masks for a New Infrared Exoplanet Imager at Keck Observatory"
 date: "2022-08-31"
 year: 2022
-authors_display: "Jialin Li, Andrew Skemer, Maaike van Kooten, Renate Kupke, Nicholas R. MacDonald"
-authors: ["Jialin Li", "Andrew Skemer", "Maaike van Kooten", "Renate Kupke", "Nicholas R. MacDonald"]
+authors_display: "Jialin Li, Andrew J. I. Skemer, Maaike van Kooten, Renate Kupke, Nicholas R. MacDonald"
+authors: ["Jialin Li", "Andrew J. I. Skemer", "Maaike van Kooten", "Renate Kupke", "Nicholas R. MacDonald"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "arXiv (Cornell University)"
 volume: ""

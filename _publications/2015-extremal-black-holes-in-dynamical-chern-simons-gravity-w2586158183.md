@@ -3,8 +3,8 @@ generated: true
 title: "Extremal Black Holes in Dynamical Chern-Simons Gravity"
 date: "2015-12-17"
 year: 2015
-authors_display: "Robert McNees, Leo C. Stein, Nicolás Yunes"
-authors: ["Robert McNees", "Leo C. Stein", "Nicolás Yunes"]
+authors_display: "Robert A. McNees, Leo C. Stein, Nicolás Yunes"
+authors: ["Robert A. McNees", "Leo C. Stein", "Nicolás Yunes"]
 group_authors: ["Leo C. Stein"]
 venue: "arXiv (Cornell University)"
 volume: "2016"

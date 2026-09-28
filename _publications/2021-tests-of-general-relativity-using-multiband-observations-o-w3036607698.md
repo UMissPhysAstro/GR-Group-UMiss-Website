@@ -3,8 +3,8 @@ generated: true
 title: "Tests of general relativity using multiband observations of intermediate mass binary black hole mergers"
 date: "2021-01-20"
 year: 2021
-authors_display: "Sayantani Datta, Anuradha Gupta, Shilpa Kastha, K. G. Arun, B. S. Sathyaprakash"
-authors: ["Sayantani Datta", "Anuradha Gupta", "Shilpa Kastha", "K. G. Arun", "B. S. Sathyaprakash"]
+authors_display: "Sayantani Datta, Anuradha Gupta, Shilpa Kastha, K. G. Arun, Bangalore S Sathyaprakash"
+authors: ["Sayantani Datta", "Anuradha Gupta", "Shilpa Kastha", "K. G. Arun", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "103"

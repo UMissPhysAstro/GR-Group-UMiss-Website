@@ -3,8 +3,8 @@ generated: true
 title: "Towards mitigating the effect of sine-Gaussian noise transients on searches for gravitational waves from compact binary coalescences"
 date: "2016-12-22"
 year: 2016
-authors_display: "S. Bose, Sanjeev Dhurandhar, Anuradha Gupta, A. P. Lundgren"
-authors: ["S. Bose", "Sanjeev Dhurandhar", "Anuradha Gupta", "A. P. Lundgren"]
+authors_display: "Sukanta Bose, Sanjeev Dhurandhar, Anuradha Gupta, A. P. Lundgren"
+authors: ["Sukanta Bose", "Sanjeev Dhurandhar", "Anuradha Gupta", "A. P. Lundgren"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "94"

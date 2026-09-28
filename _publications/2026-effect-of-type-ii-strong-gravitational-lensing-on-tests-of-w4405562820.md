@@ -3,8 +3,8 @@ generated: true
 title: "Effect of type II strong gravitational lensing on tests of general relativity"
 date: "2026-01-02"
 year: 2026
-authors_display: "P. Narayan, Nathan K. Johnson-McDaniel, Anuradha Gupta"
-authors: ["P. Narayan", "Nathan K. Johnson-McDaniel", "Anuradha Gupta"]
+authors_display: "P. V. SANKER NARAYAN, Nathan K. Johnson-McDaniel, Anuradha Gupta"
+authors: ["P. V. SANKER NARAYAN", "Nathan K. Johnson-McDaniel", "Anuradha Gupta"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "113"

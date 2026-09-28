@@ -3,8 +3,8 @@ generated: true
 title: "NRSur7dq4v2: A multi-domain precessing surrogate model with improved accuracy"
 date: "2026-09-07"
 year: 2026
-authors_display: "A G Ravishankar, Vijay Varma, Scott E. Field, Keefe Mitman, Nils Deppe, Leo C. Stein, Michael Boyle, Mark A. Scheel"
-authors: ["A G Ravishankar", "Vijay Varma", "Scott E. Field", "Keefe Mitman", "Nils Deppe", "Leo C. Stein", "Michael Boyle", "Mark A. Scheel"]
+authors_display: "A G Ravishankar, Vijay Varma, Scott E. Field, Keefe Mitman, Nils Deppe, Leo C. Stein, Michael Boyle, Mark Scheel"
+authors: ["A G Ravishankar", "Vijay Varma", "Scott E. Field", "Keefe Mitman", "Nils Deppe", "Leo C. Stein", "Michael Boyle", "Mark Scheel"]
 group_authors: ["Leo C. Stein"]
 venue: "arXiv (Cornell University)"
 volume: ""

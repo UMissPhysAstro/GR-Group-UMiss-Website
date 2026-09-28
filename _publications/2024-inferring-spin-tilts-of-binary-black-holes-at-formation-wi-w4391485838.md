@@ -3,8 +3,8 @@ generated: true
 title: "Inferring spin tilts of binary black holes at formation with plus-era gravitational wave detectors"
 date: "2024-02-02"
 year: 2024
-authors_display: "Sumeet Kulkarni, Nathan K. Johnson-McDaniel, K. S. Phukon, N. V. Krishnendu, Anuradha Gupta"
-authors: ["Sumeet Kulkarni", "Nathan K. Johnson-McDaniel", "K. S. Phukon", "N. V. Krishnendu", "Anuradha Gupta"]
+authors_display: "Sumeet Kulkarni, Nathan K. Johnson-McDaniel, Khun Sang Phukon, N. V. Krishnendu, Anuradha Gupta"
+authors: ["Sumeet Kulkarni", "Nathan K. Johnson-McDaniel", "Khun Sang Phukon", "N. V. Krishnendu", "Anuradha Gupta"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "109"

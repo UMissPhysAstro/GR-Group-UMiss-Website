@@ -4,7 +4,7 @@ title: "The connection between the parsec-scale radio jet and γ-ray flares in t
 date: "2014-10-13"
 year: 2014
 authors_display: "Venkatessh Ramakrishnan, J. León-Tavares, Elizaveta Rastorgueva-Foi, K. Wiik, S. G. Jorstad, Alan P. Marscher, M. Tornikoski, I. Agudo, and 25 collaborators"
-authors: ["Venkatessh Ramakrishnan", "J. León-Tavares", "Elizaveta Rastorgueva-Foi", "K. Wiik", "S. G. Jorstad", "Alan P. Marscher", "M. Tornikoski", "I. Agudo", "A. Lähteenmäki", "E. Valtaoja", "M. F. Aller", "D. Blinov", "C. Casadio", "Н. В. Ефимова", "Mark Gurwell", "José L. Gómez", "V. A. Hagen‐Thorn", "M. Joshi", "E. Järvelä", "T. S. Konstantinova", "E. N. Kopatskaya", "V. M. Larionov", "Е. Г. Ларионова", "L. V. Larionova", "N. Lavonen", "Nicholas R. MacDonald", "I. M. McHardy", "S. N. Molina", "D. A. Morozova", "Elina Nieppola", "J. Tammi", "Brian Taylor", "I. S. Troitsky"]
+authors: ["Venkatessh Ramakrishnan", "J. León-Tavares", "Elizaveta Rastorgueva-Foi", "K. Wiik", "S. G. Jorstad", "Alan P. Marscher", "M. Tornikoski", "I. Agudo", "Anne Lähteenmäki", "E. Valtaoja", "M. F. Aller", "Dmitry A. Blinov", "C. Casadio", "Natalia V. Efimova", "Mark Gurwell", "José Luis Gómez", "Vladimir A. Hagen-Thorn", "M. Joshi", "E. Järvelä", "Tatiana S. Grishina", "Evgenia N. Kopatskaya", "V. M. Larionov", "Elena G. Larionova", "Liudmilla V. Larionova", "Niko Lavonen", "Nicholas R. MacDonald", "Ian M. McHardy", "S. N. Molina", "Daria A. Morozova", "Elina Nieppola", "J. Tammi", "Brian Taylor", "Ivan S. Troitsky"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Monthly Notices of the Royal Astronomical Society"
 volume: "445"

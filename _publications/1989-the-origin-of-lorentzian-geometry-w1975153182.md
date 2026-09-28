@@ -3,8 +3,8 @@ generated: true
 title: "The origin of Lorentzian geometry"
 date: "1989-11-01"
 year: 1989
-authors_display: "L. Bombelli, David Meyer"
-authors: ["L. Bombelli", "David Meyer"]
+authors_display: "L. Bombelli, DAVID A. MEYER"
+authors: ["L. Bombelli", "DAVID A. MEYER"]
 group_authors: ["Luca Bombelli"]
 venue: "Physics Letters A"
 volume: "141"
