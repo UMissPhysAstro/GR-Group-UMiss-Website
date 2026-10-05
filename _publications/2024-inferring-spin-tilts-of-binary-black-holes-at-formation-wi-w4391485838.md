@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1103/physrevd.109.043002"
 arxiv: "2308.05098"
 openalex: "https://openalex.org/W4391485838"
-pdf: "https://pure-oai.bham.ac.uk/ws/files/221007616/KulkarniS2024Inferring.pdf"
+pdf: "https://arxiv.org/pdf/2308.05098"
 work_type: "article"
 ---
 

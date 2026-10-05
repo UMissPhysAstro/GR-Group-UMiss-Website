@@ -3,8 +3,8 @@ generated: true
 title: "Positivity bounds on massive vectors"
 date: "2024-12-06"
 year: 2024
-authors_display: "Francesco Bertucci, Johan Henriksson, Brian McPeak, Sergio Ricossa, Francesco Riva B, Alessandro Vichi"
-authors: ["Francesco Bertucci", "Johan Henriksson", "Brian McPeak", "Sergio Ricossa", "Francesco Riva B", "Alessandro Vichi"]
+authors_display: "Francesco Bertucci, Johan Henriksson, Brian McPeak, Sara Ricossa, Francesco Riva B, Alessandro Vichi"
+authors: ["Francesco Bertucci", "Johan Henriksson", "Brian McPeak", "Sara Ricossa", "Francesco Riva B", "Alessandro Vichi"]
 group_authors: ["Francesco Bertucci"]
 venue: "Journal of High Energy Physics"
 volume: "2024"

@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1103/physrevd.111.023013"
 arxiv: "2209.05766"
 openalex: "https://openalex.org/W4406155378"
-pdf: "https://orca.cardiff.ac.uk/id/eprint/175411/1/Post-print%20%281%29.pdf"
+pdf: "https://arxiv.org/pdf/2209.05766"
 work_type: "article"
 ---
 

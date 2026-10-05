@@ -3,8 +3,8 @@ generated: true
 title: "Cosmography with bright and Love sirens"
 date: "2022-12-26"
 year: 2022
-authors_display: "A. Dhani, Ssohrab Borhanian, Anuradha Gupta, Bangalore S Sathyaprakash"
-authors: ["A. Dhani", "Ssohrab Borhanian", "Anuradha Gupta", "Bangalore S Sathyaprakash"]
+authors_display: "Arnab Dhani, Ssohrab Borhanian, Anuradha Gupta, Bangalore S Sathyaprakash"
+authors: ["Arnab Dhani", "Ssohrab Borhanian", "Anuradha Gupta", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "arXiv (Cornell University)"
 volume: ""

@@ -3,8 +3,8 @@ generated: true
 title: "Spatially resolved origin of millimeter-wave linear polarization in the nuclear region of 3C 84"
 date: "2019-02-19"
 year: 2019
-authors_display: "Jae-Young Kim, T. P. Krichbaum, Alan P. Marscher, Svetlana G. Jorstad, I. Agudo, C. Thum, Jeffrey A. Hodgson, Nicholas R. MacDonald, and 7 collaborators"
-authors: ["Jae-Young Kim", "T. P. Krichbaum", "Alan P. Marscher", "Svetlana G. Jorstad", "I. Agudo", "C. Thum", "Jeffrey A. Hodgson", "Nicholas R. MacDonald", "Eduardo Ros", "Rusen S. Lu", "Michael Bremer", "P. de Vicente", "M. Lindqvist", "Sascha Trippe", "J. A. Zensus"]
+authors_display: "Jae-Young Kim, T. P. Krichbaum, Alan P. Marscher, Svetlana G. Jorstad, I. Agudo, C. Thum, Jeffrey Adam Hodgson, Nicholas R. MacDonald, and 7 collaborators"
+authors: ["Jae-Young Kim", "T. P. Krichbaum", "Alan P. Marscher", "Svetlana G. Jorstad", "I. Agudo", "C. Thum", "Jeffrey Adam Hodgson", "Nicholas R. MacDonald", "Eduardo Ros", "Rusen S. Lu", "Michael Bremer", "P. de Vicente", "M. Lindqvist", "Sascha Trippe", "J. A. Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Springer Link (Chiba Institute of Technology)"
 volume: ""

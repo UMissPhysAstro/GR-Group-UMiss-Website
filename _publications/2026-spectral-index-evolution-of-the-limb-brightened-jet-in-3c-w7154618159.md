@@ -3,8 +3,8 @@ generated: true
 title: "Spectral index evolution of the limb-brightened jet in 3C 84"
 date: "2026-04-16"
 year: 2026
-authors_display: "L. C. Debbrecht, Georgios Filippos Paraschos, Eduardo Ros, T. P. Krichbaum, U. Bach, Mark Gurwell, Jeffrey A. Hodgson, M. Janssen, and 6 collaborators"
-authors: ["L. C. Debbrecht", "Georgios Filippos Paraschos", "Eduardo Ros", "T. P. Krichbaum", "U. Bach", "Mark Gurwell", "Jeffrey A. Hodgson", "M. Janssen", "J.-Y. Kim", "Mikhail Lisakov", "Nicholas R. MacDonald", "Dhanya G. Nair", "Junghwan Oh", "J. A. Zensus"]
+authors_display: "Lena C. Debbrecht, Georgios Filippos Paraschos, Eduardo Ros, T. P. Krichbaum, U. Bach, Mark Gurwell, Jeffrey Adam Hodgson, M. Janssen, and 6 collaborators"
+authors: ["Lena C. Debbrecht", "Georgios Filippos Paraschos", "Eduardo Ros", "T. P. Krichbaum", "U. Bach", "Mark Gurwell", "Jeffrey Adam Hodgson", "M. Janssen", "Jae-Young Kim", "Mikhail Lisakov", "Nicholas R. MacDonald", "Dhanya G. Nair", "Junghwan Oh", "J. A. Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "709"

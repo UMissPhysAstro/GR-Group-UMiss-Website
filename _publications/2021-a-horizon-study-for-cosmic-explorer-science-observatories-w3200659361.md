@@ -4,7 +4,7 @@ title: "A Horizon Study for Cosmic Explorer: Science, Observatories, and Communi
 date: "2021-09-20"
 year: 2021
 authors_display: "M. Evans, R. X. Adhikari, Chaitanya Afle, S. Ballmer, S. Biscoveanu, Ssohrab Borhanian, Duncan A. Brown, Yanbei Chen, and 24 collaborators"
-authors: ["M. Evans", "R. X. Adhikari", "Chaitanya Afle", "S. Ballmer", "S. Biscoveanu", "Ssohrab Borhanian", "Duncan A. Brown", "Yanbei Chen", "Robert A. Eisenstein", "Alexandra Gruson", "Anuradha Gupta", "E. D. Hall", "R. Huxford", "Brittany Kamai", "Rahul Kashyap", "Jeff Kissel", "K. Kuns", "Philippe Landry", "A. Lenon", "Geoffrey Lovelace", "Lee McCuller", "Ken K. Y. Ng", "A. Nitz", "J. Read", "Bangalore S Sathyaprakash", "D. H. Shoemaker", "Bram J. J. Slagmolen", "Joshua R. Smith", "Varun Srivastava", "Ling Sun", "S. Vitale", "Rainer Weiß"]
+authors: ["M. Evans", "R. X. Adhikari", "Chaitanya Afle", "S. Ballmer", "S. Biscoveanu", "Ssohrab Borhanian", "Duncan A. Brown", "Yanbei Chen", "Robert A. Eisenstein", "Alexandra Gruson", "Anuradha Gupta", "E. D. Hall", "R. Huxford", "Brittany Kamai", "Rahul Kashyap", "Jeff Kissel", "Kevin A. Kuns", "Philippe Landry", "A. Lenon", "Geoffrey Lovelace", "Lee McCuller", "Ken K. Y. Ng", "A. Nitz", "J. Read", "Bangalore S Sathyaprakash", "D. H. Shoemaker", "Bram J. J. Slagmolen", "Joshua R. Smith", "Varun Srivastava", "Ling Sun", "S. Vitale", "Rainer Weiß"]
 group_authors: ["Anuradha Gupta"]
 venue: "arXiv (Cornell University)"
 volume: ""

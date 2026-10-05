@@ -11,9 +11,9 @@ volume: "704"
 issue: ""
 pages: "A143"
 doi: "10.1051/0004-6361/202556231"
-arxiv: ""
+arxiv: "2510.01476"
 openalex: "https://openalex.org/W4415629780"
-pdf: "https://www.utupub.fi/bitstream/10024/196697/1/aa56231-25.pdf"
+pdf: "https://arxiv.org/pdf/2510.01476"
 work_type: "article"
 ---
 

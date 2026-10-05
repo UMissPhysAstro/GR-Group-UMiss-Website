@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1103/physrevd.108.103023"
 arxiv: "2308.03955"
 openalex: "https://openalex.org/W4388654439"
-pdf: "https://www.osti.gov/servlets/purl/2208737"
+pdf: "https://arxiv.org/pdf/2308.03955"
 work_type: "article"
 ---
 
