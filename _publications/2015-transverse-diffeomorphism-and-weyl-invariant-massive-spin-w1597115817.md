@@ -3,8 +3,8 @@ generated: true
 title: "Transverse diffeomorphism and Weyl invariant massive spin 2: Linear theory"
 date: "2015-06-08"
 year: 2015
-authors_display: "James Bonifacio, Pedro G. Ferreira, Kurt Hinterbichler"
-authors: ["James Bonifacio", "Pedro G. Ferreira", "Kurt Hinterbichler"]
+authors_display: "James Bonifacio, P.G Ferreira, Kurt Hinterbichler"
+authors: ["James Bonifacio", "P.G Ferreira", "Kurt Hinterbichler"]
 group_authors: ["James Bonifacio"]
 venue: "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields"
 volume: "91"

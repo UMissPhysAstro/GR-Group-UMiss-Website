@@ -4,7 +4,7 @@ title: "Investigating launching of black hole jets with the combined power of th
 date: "2025-01-21"
 year: 2025
 authors_display: "Georgios Filippos Paraschos, Lena C. Debbrecht, Joana A. Kramer, Efthalia Traianou, Ioannis Liodakis, T. P. Krichbaum, J. -Y. Kim, Michaël Janssen, and 8 collaborators"
-authors: ["Georgios Filippos Paraschos", "Lena C. Debbrecht", "Joana A. Kramer", "Efthalia Traianou", "Ioannis Liodakis", "T. P. Krichbaum", "J. -Y. Kim", "Michaël Janssen", "Dhanya G. Nair", "T. Savolainen", "Ros, E.", "Bach, U", "Jeffrey Adam Hodgson", "Mikhail Lisakov", "Nicholas R. MacDonald", "J. A. Zensus"]
+authors: ["Georgios Filippos Paraschos", "Lena C. Debbrecht", "Joana A. Kramer", "Efthalia Traianou", "Ioannis Liodakis", "T. P. Krichbaum", "J. -Y. Kim", "Michaël Janssen", "Dhanya G. Nair", "T. Savolainen", "Eduardo Ros", "Bach, U", "Jeffrey Adam Hodgson", "Mikhail Lisakov", "Nicholas R. MacDonald", "J. A. Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "arXiv (Cornell University)"
 volume: ""

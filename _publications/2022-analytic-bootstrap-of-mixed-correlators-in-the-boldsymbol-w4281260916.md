@@ -3,8 +3,8 @@ generated: true
 title: "Analytic bootstrap of mixed correlators in the $\\boldsymbol{O(n)}$ CFT"
 date: "2022-05-18"
 year: 2022
-authors_display: "Francesco Bertucci, Henriksson, Johan, Brian McPeak"
-authors: ["Francesco Bertucci", "Henriksson, Johan", "Brian McPeak"]
+authors_display: "Francesco Bertucci, Johan Henriksson, Brian McPeak"
+authors: ["Francesco Bertucci", "Johan Henriksson", "Brian McPeak"]
 group_authors: ["Francesco Bertucci"]
 venue: "arXiv (Cornell University)"
 volume: ""

@@ -3,8 +3,8 @@ generated: true
 title: "Particle-in cell Simulations of Relativistic Jets: Magnetic Reconnection and Synthetic Spectra"
 date: "2021-01-01"
 year: 2021
-authors_display: "I. Duţan, J. Niemiec, MARTIN POHL, Yosuke Mizuno, Athina Meli, Nicholas R. MacDonald, Ken‐Ichi Nishikawa"
-authors: ["I. Duţan", "J. Niemiec", "MARTIN POHL", "Yosuke Mizuno", "Athina Meli", "Nicholas R. MacDonald", "Ken‐Ichi Nishikawa"]
+authors_display: "I. Duţan, J. Niemiec, M. Pohl, Yosuke Mizuno, Athina Meli, Nicholas R. MacDonald, Ken‐Ichi Nishikawa"
+authors: ["I. Duţan", "J. Niemiec", "M. Pohl", "Yosuke Mizuno", "Athina Meli", "Nicholas R. MacDonald", "Ken‐Ichi Nishikawa"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "43rd COSPAR Scientific Assembly. Held 28 January - 4 February"
 volume: "43"
