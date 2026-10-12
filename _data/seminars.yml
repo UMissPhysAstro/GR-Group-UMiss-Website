@@ -1,4 +1,10 @@
 # Add new talks here; pages sort this list by date automatically.
+- date_iso: '2026-11-13'
+  speaker: Loic Honet
+  affiliation: Universit´e Libre de Bruxelles, Belgium
+  title:
+  abstract:
+
 - date_iso: '2026-11-06'
   speaker: Dr. Pablo Cano
   affiliation: Universidad de Murcia, Spain
