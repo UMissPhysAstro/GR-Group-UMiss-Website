@@ -1,4 +1,10 @@
 # Add new talks here; pages sort this list by date automatically.
+- date_iso: '2026-11-16'
+  speaker: Edoardo Levati
+  affiliation: Wake Forest University
+  title:
+  abstract:
+
 - date_iso: '2026-11-13'
   speaker: Loic Honet
   affiliation: Universit´e Libre de Bruxelles, Belgium
