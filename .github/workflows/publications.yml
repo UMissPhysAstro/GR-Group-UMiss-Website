@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: publications
@@ -30,13 +31,22 @@ jobs:
         env:
           OPENALEX_EMAIL: ${{ vars.OPENALEX_EMAIL }}
       - name: Commit publication updates
+        id: commit
         run: |
-          if git diff --quiet -- _publications; then
+          git add _publications
+          if git diff --cached --quiet; then
             echo "No publication changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _publications
           git commit -m "Update publications"
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+      # Pushes made with GITHUB_TOKEN do not trigger other workflows, so start
+      # the deployment explicitly. workflow_dispatch is the documented exception.
+      - name: Deploy updated site
+        if: steps.commit.outputs.pushed == 'true'
+        run: gh workflow run pages.yml --ref "${{ github.ref_name }}"
+        env:
+          GH_TOKEN: ${{ github.token }}

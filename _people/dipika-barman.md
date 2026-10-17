@@ -3,6 +3,7 @@ name: Dipika Barman
 last_name: Barman
 role: phd-student
 role_label: PhD Student
+photo: /assets/images/people/dbarman.jpg
 tagline: Testing general relativity with gravitational waves from exotic compact objects.
 research:
   - Tests of general relativity
