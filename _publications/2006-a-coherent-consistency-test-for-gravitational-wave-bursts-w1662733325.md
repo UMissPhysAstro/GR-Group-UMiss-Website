@@ -3,8 +3,8 @@ generated: true
 title: "A coherent consistency test for gravitational-wave bursts"
 date: "2006-04-22"
 year: 2006
-authors_display: "Patrick J. Sutton, Shourov Chatterji, Albert Lazzarini, Antony Searle, Leo C. Stein, Massimo Tinto"
-authors: ["Patrick J. Sutton", "Shourov Chatterji", "Albert Lazzarini", "Antony Searle", "Leo C. Stein", "Massimo Tinto"]
+authors_display: "Patrick J. Sutton, S. Chatterji, Albert Lazzarini, Antony Searle, Leo C. Stein, Massimo Tinto"
+authors: ["Patrick J. Sutton", "S. Chatterji", "Albert Lazzarini", "Antony Searle", "Leo C. Stein", "Massimo Tinto"]
 group_authors: ["Leo C. Stein"]
 venue: "Bulletin of the American Physical Society"
 volume: ""

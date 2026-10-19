@@ -3,8 +3,8 @@ generated: true
 title: "Through the Looking Glass: Faraday Conversion in Turbulent Blazar Jets"
 date: "2016-10-25"
 year: 2016
-authors_display: "Nicholas R. MacDonald"
-authors: ["Nicholas R. MacDonald"]
+authors_display: "Nicholas Roy Macdonald"
+authors: ["Nicholas Roy Macdonald"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Galaxies"
 volume: "4"

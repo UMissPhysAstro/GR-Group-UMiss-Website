@@ -3,8 +3,8 @@ generated: true
 title: "Black holes in the low-mass gap: Implications for gravitational-wave observations"
 date: "2020-05-26"
 year: 2020
-authors_display: "Anuradha Gupta, Davide Gerosa, K. G. Arun, Emanuele Berti, Will M. Farr, Bangalore S Sathyaprakash"
-authors: ["Anuradha Gupta", "Davide Gerosa", "K. G. Arun", "Emanuele Berti", "Will M. Farr", "Bangalore S Sathyaprakash"]
+authors_display: "Anuradha Gupta, Davide Gerosa, K. G. Arun, Emanuele Berti, Will Meierjurgen Farr, Bangalore S Sathyaprakash"
+authors: ["Anuradha Gupta", "Davide Gerosa", "K. G. Arun", "Emanuele Berti", "Will Meierjurgen Farr", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "101"

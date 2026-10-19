@@ -3,8 +3,8 @@ generated: true
 title: "A parsec-scale wobbling jet in the high-synchrotron peaked blazar PG 1553+113"
 date: "2020-01-04"
 year: 2020
-authors_display: "Rocco Lico, J. Liu, M. Giroletti, M. Orienti, José Luis Gómez, B. G. Piner, Nicholas R. MacDonald, Filippo D'Ammando, Antonio Fuentes"
-authors: ["Rocco Lico", "J. Liu", "M. Giroletti", "M. Orienti", "José Luis Gómez", "B. G. Piner", "Nicholas R. MacDonald", "Filippo D'Ammando", "Antonio Fuentes"]
+authors_display: "Rocco Lico, J. Liu, M. Giroletti, M. Orienti, José Luis Gómez, B. G. Piner, Nicholas Roy Macdonald, Filippo D'Ammando, Antonio Fuentes"
+authors: ["Rocco Lico", "J. Liu", "M. Giroletti", "M. Orienti", "José Luis Gómez", "B. G. Piner", "Nicholas Roy Macdonald", "Filippo D'Ammando", "Antonio Fuentes"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "634"

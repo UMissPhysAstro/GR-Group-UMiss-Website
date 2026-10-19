@@ -3,8 +3,8 @@ generated: true
 title: "Calibrating the cosmic distance ladder using gravitational-wave observations"
 date: "2019-07-23"
 year: 2019
-authors_display: "Anuradha Gupta, Fox, Derek, Bangalore S Sathyaprakash, Schutz, B. F."
-authors: ["Anuradha Gupta", "Fox, Derek", "Bangalore S Sathyaprakash", "Schutz, B. F."]
+authors_display: "Anuradha Gupta, D. B. Fox, Bangalore S Sathyaprakash, Schutz, B. F."
+authors: ["Anuradha Gupta", "D. B. Fox", "Bangalore S Sathyaprakash", "Schutz, B. F."]
 group_authors: ["Anuradha Gupta"]
 venue: "MPG.PuRe (Max Planck Society)"
 volume: "2019"

@@ -3,8 +3,8 @@ generated: true
 title: "A helical magnetic field in quasar NRAO 150 revealed by Faraday rotation"
 date: "2025-03-25"
 year: 2025
-authors_display: "J. D. Livingston, Aleksei S. Nikonov, Sergio A. Dzib, Lena C. Debbrecht, Y. Y. Kovalev, Mikhail Lisakov, Nicholas R. MacDonald, Georgios Filippos Paraschos, J. Röder, Maciek Wielgus"
-authors: ["J. D. Livingston", "Aleksei S. Nikonov", "Sergio A. Dzib", "Lena C. Debbrecht", "Y. Y. Kovalev", "Mikhail Lisakov", "Nicholas R. MacDonald", "Georgios Filippos Paraschos", "J. Röder", "Maciek Wielgus"]
+authors_display: "J. D. Livingston, Aleksei S. Nikonov, Sergio A. Dzib, Lena C. Debbrecht, Y. Y. Kovalev, Mikhail Lisakov, Nicholas Roy Macdonald, Georgios Filippos Paraschos, J. Röder, Maciek Wielgus"
+authors: ["J. D. Livingston", "Aleksei S. Nikonov", "Sergio A. Dzib", "Lena C. Debbrecht", "Y. Y. Kovalev", "Mikhail Lisakov", "Nicholas Roy Macdonald", "Georgios Filippos Paraschos", "J. Röder", "Maciek Wielgus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Springer Link (Chiba Institute of Technology)"
 volume: ""

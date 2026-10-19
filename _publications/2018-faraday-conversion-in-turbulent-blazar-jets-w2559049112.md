@@ -3,8 +3,8 @@ generated: true
 title: "Faraday Conversion in Turbulent Blazar Jets"
 date: "2018-07-20"
 year: 2018
-authors_display: "Nicholas R. MacDonald, Alan P. Marscher"
-authors: ["Nicholas R. MacDonald", "Alan P. Marscher"]
+authors_display: "Nicholas Roy Macdonald, Alan P. Marscher"
+authors: ["Nicholas Roy Macdonald", "Alan P. Marscher"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "The Astrophysical Journal"
 volume: "862"

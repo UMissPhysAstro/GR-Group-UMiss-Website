@@ -3,8 +3,8 @@ generated: true
 title: "Pinpointing the location of the"
 date: "2025-12-05"
 year: 2025
-authors_display: "F. Rösch, M. Kadler, Eduardo Ros, L. Ricci, Mark Gurwell, T. Hovatta, Nicholas R. MacDonald, A. C. S. Readhead"
-authors: ["F. Rösch", "M. Kadler", "Eduardo Ros", "L. Ricci", "Mark Gurwell", "T. Hovatta", "Nicholas R. MacDonald", "A. C. S. Readhead"]
+authors_display: "F. Rösch, M. Kadler, Eduardo Ros, L. Ricci, Mark Gurwell, T. Hovatta, Nicholas Roy Macdonald, A. C. S. Readhead"
+authors: ["F. Rösch", "M. Kadler", "Eduardo Ros", "L. Ricci", "Mark Gurwell", "T. Hovatta", "Nicholas Roy Macdonald", "A. C. S. Readhead"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Springer Link (Chiba Institute of Technology)"
 volume: ""

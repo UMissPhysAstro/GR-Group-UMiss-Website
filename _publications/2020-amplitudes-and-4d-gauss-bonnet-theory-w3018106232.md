@@ -3,8 +3,8 @@ generated: true
 title: "Amplitudes and 4D Gauss-Bonnet theory"
 date: "2020-07-07"
 year: 2020
-authors_display: "James Bonifacio, Kurt Hinterbichler, Laura A. Johnson"
-authors: ["James Bonifacio", "Kurt Hinterbichler", "Laura A. Johnson"]
+authors_display: "James Bonifacio, Kurt Hinterbichler, Laura Engelbrecht"
+authors: ["James Bonifacio", "Kurt Hinterbichler", "Laura Engelbrecht"]
 group_authors: ["James Bonifacio"]
 venue: "Physical review. D/Physical review. D."
 volume: "102"

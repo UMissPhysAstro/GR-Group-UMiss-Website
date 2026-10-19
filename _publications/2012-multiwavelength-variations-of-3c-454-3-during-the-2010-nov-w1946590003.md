@@ -3,8 +3,8 @@ generated: true
 title: "MULTIWAVELENGTH VARIATIONS OF 3C 454.3 DURING THE 2010 NOVEMBER TO 2011 JANUARY OUTBURST"
 date: "2012-09-27"
 year: 2012
-authors_display: "A. E. Wehrle, Alan P. Marscher, S. G. Jorstad, Mark Gurwell, M. Joshi, Nicholas R. MacDonald, Karen E. Williamson, I. Agudo, D. Grupe"
-authors: ["A. E. Wehrle", "Alan P. Marscher", "S. G. Jorstad", "Mark Gurwell", "M. Joshi", "Nicholas R. MacDonald", "Karen E. Williamson", "I. Agudo", "D. Grupe"]
+authors_display: "A. E. Wehrle, Alan P. Marscher, Svetlana G. Jorstad, Mark Gurwell, M. Joshi, Nicholas Roy Macdonald, Karen E. Williamson, I. Agudo, D. Grupe"
+authors: ["A. E. Wehrle", "Alan P. Marscher", "Svetlana G. Jorstad", "Mark Gurwell", "M. Joshi", "Nicholas Roy Macdonald", "Karen E. Williamson", "I. Agudo", "D. Grupe"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "The Astrophysical Journal"
 volume: "758"

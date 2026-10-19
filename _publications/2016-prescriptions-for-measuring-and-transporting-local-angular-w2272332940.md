@@ -3,8 +3,8 @@ generated: true
 title: "Prescriptions for measuring and transporting local angular momenta in general relativity"
 date: "2016-05-03"
 year: 2016
-authors_display: "Éanna É. Flanagan, David Andrew Nichols, Leo C. Stein, Justin E. Vines"
-authors: ["Éanna É. Flanagan", "David Andrew Nichols", "Leo C. Stein", "Justin E. Vines"]
+authors_display: "Éanna É. Flanagan, David A. Nichols, Leo C. Stein, Justin E. Vines"
+authors: ["Éanna É. Flanagan", "David A. Nichols", "Leo C. Stein", "Justin E. Vines"]
 group_authors: ["Leo C. Stein"]
 venue: "Physical review. D/Physical review. D."
 volume: "93"

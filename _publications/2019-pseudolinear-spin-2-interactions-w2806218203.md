@@ -3,8 +3,8 @@ generated: true
 title: "Pseudolinear spin-2 interactions"
 date: "2019-01-28"
 year: 2019
-authors_display: "James Bonifacio, Kurt Hinterbichler, Laura A. Johnson"
-authors: ["James Bonifacio", "Kurt Hinterbichler", "Laura A. Johnson"]
+authors_display: "James Bonifacio, Kurt Hinterbichler, Laura Engelbrecht"
+authors: ["James Bonifacio", "Kurt Hinterbichler", "Laura Engelbrecht"]
 group_authors: ["James Bonifacio"]
 venue: "Physical review. D/Physical review. D."
 volume: "99"

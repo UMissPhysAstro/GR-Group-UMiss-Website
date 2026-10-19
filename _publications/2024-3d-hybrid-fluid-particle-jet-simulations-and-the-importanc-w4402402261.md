@@ -3,8 +3,8 @@ generated: true
 title: "3D hybrid fluid-particle jet simulations and the importance of synchrotron radiative losses"
 date: "2024-09-10"
 year: 2024
-authors_display: "Joana A. Kramer, Nicholas R. MacDonald, Georgios Filippos Paraschos, L. Ricci"
-authors: ["Joana A. Kramer", "Nicholas R. MacDonald", "Georgios Filippos Paraschos", "L. Ricci"]
+authors_display: "Joana A. Kramer, Nicholas Roy Macdonald, Georgios Filippos Paraschos, L. Ricci"
+authors: ["Joana A. Kramer", "Nicholas Roy Macdonald", "Georgios Filippos Paraschos", "L. Ricci"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "691"

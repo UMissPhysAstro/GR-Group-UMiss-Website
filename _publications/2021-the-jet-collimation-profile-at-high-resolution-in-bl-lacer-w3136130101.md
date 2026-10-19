@@ -3,15 +3,15 @@ generated: true
 title: "The jet collimation profile at high resolution in BL Lacertae"
 date: "2021-06-01"
 year: 2021
-authors_display: "C. Casadio, Nicholas R. MacDonald, Bia Boccardi, Svetlana G. Jorstad, Alan P. Marscher, T. P. Krichbaum, Jeffrey Adam Hodgson, Jae-Young Kim, and 9 collaborators"
-authors: ["C. Casadio", "Nicholas R. MacDonald", "Bia Boccardi", "Svetlana G. Jorstad", "Alan P. Marscher", "T. P. Krichbaum", "Jeffrey Adam Hodgson", "Jae-Young Kim", "Efthalia Traianou", "Z. R. Weaver", "M. Gómez-Garrido", "Javier González-García", "Juha Kallunki", "M. Lindqvist", "Salvador Sánchez", "Jun Yang", "J. A. Zensus"]
+authors_display: "C. Casadio, Nicholas Roy Macdonald, Bia Boccardi, Svetlana G. Jorstad, Alan P. Marscher, T. P. Krichbaum, Jeffrey Adam Hodgson, Jae-Young Kim, and 9 collaborators"
+authors: ["C. Casadio", "Nicholas Roy Macdonald", "Bia Boccardi", "Svetlana G. Jorstad", "Alan P. Marscher", "T. P. Krichbaum", "Jeffrey Adam Hodgson", "Jae-Young Kim", "Efthalia Traianou", "Z. R. Weaver", "M. Gómez-Garrido", "Javier González-García", "Juha Kallunki", "M. Lindqvist", "Salvador Sánchez", "Jun Yang", "J. A. Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Springer Link (Chiba Institute of Technology)"
 volume: ""
 issue: ""
 pages: ""
 doi: "10.1051/0004-6361/202039616/pdf"
-arxiv: ""
+arxiv: "2102.08952"
 openalex: "https://openalex.org/W3136130101"
 pdf: "https://www.aanda.org/10.1051/0004-6361/202039616/pdf"
 work_type: "article"

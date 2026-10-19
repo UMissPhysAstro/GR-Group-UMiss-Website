@@ -3,8 +3,8 @@ generated: true
 title: "Coherent network analysis technique for discriminating gravitational-wave bursts from instrumental noise"
 date: "2006-10-12"
 year: 2006
-authors_display: "Shourov Chatterji, Albert Lazzarini, Leo C. Stein, Patrick J. Sutton, Antony Searle, Massimo Tinto"
-authors: ["Shourov Chatterji", "Albert Lazzarini", "Leo C. Stein", "Patrick J. Sutton", "Antony Searle", "Massimo Tinto"]
+authors_display: "S. Chatterji, Albert Lazzarini, Leo C. Stein, Patrick J. Sutton, Antony Searle, Massimo Tinto"
+authors: ["S. Chatterji", "Albert Lazzarini", "Leo C. Stein", "Patrick J. Sutton", "Antony Searle", "Massimo Tinto"]
 group_authors: ["Leo C. Stein"]
 venue: "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields"
 volume: "74"

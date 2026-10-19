@@ -3,8 +3,8 @@ generated: true
 title: "Circular Polarization in Turbulent Blazar Jets"
 date: "2017-11-20"
 year: 2017
-authors_display: "Nicholas R. MacDonald"
-authors: ["Nicholas R. MacDonald"]
+authors_display: "Nicholas Roy Macdonald"
+authors: ["Nicholas Roy Macdonald"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Galaxies"
 volume: "5"

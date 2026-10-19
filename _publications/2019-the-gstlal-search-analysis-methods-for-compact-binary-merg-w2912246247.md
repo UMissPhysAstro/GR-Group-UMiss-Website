@@ -4,7 +4,7 @@ title: "The GstLAL Search Analysis Methods for Compact Binary Mergers in Advance
 date: "2019-01-24"
 year: 2019
 authors_display: "S. Sachdev, S. Caudill, Heather Fong, R. K. L. Lo, C. Messick, Debnandini Mukherjee, R. M. Magee, Leo Tsukada, and 21 collaborators"
-authors: ["S. Sachdev", "S. Caudill", "Heather Fong", "R. K. L. Lo", "C. Messick", "Debnandini Mukherjee", "R. M. Magee", "Leo Tsukada", "Kent Blackburn", "P. R. Brady", "P. Brockill", "K. C. Cannon", "S. J. Chamberlin", "Deep Chatterjee", "Jolien D. E. Creighton", "P. Godwin", "Anuradha Gupta", "Chad Hanna", "S. J. Kapadia", "R. N. Lang", "Tjonnie G. F. Li", "D. Meacher", "Alexander Pace", "S. Privitera", "L. Sadeghian", "L. E. Wade", "M. Wade", "Alan J Weinstein", "Xiao, Sophia Liting"]
+authors: ["S. Sachdev", "S. Caudill", "Heather Fong", "R. K. L. Lo", "C. Messick", "Debnandini Mukherjee", "R. M. Magee", "Leo Tsukada", "Kent Blackburn", "P. R. Brady", "P. Brockill", "K. C. Cannon", "S. J. Chamberlin", "Deep Chatterjee", "Jolien D. E. Creighton", "P. Godwin", "Anuradha Gupta", "Chad Hanna", "S. J. Kapadia", "R. N. Lang", "T. G. F. Li", "Duncan Meacher", "Alexander Pace", "S. Privitera", "L. Sadeghian", "L. E. Wade", "Madeline Wade", "Alan J Weinstein", "Xiao, Sophia Liting"]
 group_authors: ["Anuradha Gupta"]
 venue: "arXiv (Cornell University)"
 volume: ""

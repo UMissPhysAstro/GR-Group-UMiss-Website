@@ -3,8 +3,8 @@ generated: true
 title: "“Orphan” γ-Ray Flares and Stationary Sheaths of Blazar Jets"
 date: "2017-11-20"
 year: 2017
-authors_display: "Nicholas R. MacDonald, Svetlana G. Jorstad, Alan P. Marscher"
-authors: ["Nicholas R. MacDonald", "Svetlana G. Jorstad", "Alan P. Marscher"]
+authors_display: "Nicholas Roy Macdonald, Svetlana G. Jorstad, Alan P. Marscher"
+authors: ["Nicholas Roy Macdonald", "Svetlana G. Jorstad", "Alan P. Marscher"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "The Astrophysical Journal"
 volume: "850"

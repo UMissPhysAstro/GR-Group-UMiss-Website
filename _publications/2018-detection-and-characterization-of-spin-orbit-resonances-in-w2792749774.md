@@ -3,8 +3,8 @@ generated: true
 title: "Detection and characterization of spin-orbit resonances in the advanced gravitational wave detectors era"
 date: "2018-10-16"
 year: 2018
-authors_display: "Chaitanya Afle, Anuradha Gupta, B. U. Gadre, P. Kumar, Nick Demos, Geoffrey Lovelace, Han Gil Choi, Hyung Mok Lee, and 7 collaborators"
-authors: ["Chaitanya Afle", "Anuradha Gupta", "B. U. Gadre", "P. Kumar", "Nick Demos", "Geoffrey Lovelace", "Han Gil Choi", "Hyung Mok Lee", "Sanjit Mitra", "Michael Boyle", "Daniel A. Hemberger", "Larry Kidder", "Harald Pfeiffer", "Mark Scheel", "Béla Szilágyi"]
+authors_display: "Chaitanya Afle, Anuradha Gupta, B. U. Gadre, P. Kumar, N. Demos, Geoffrey Lovelace, Han Gil Choi, Hyung Mok Lee, and 7 collaborators"
+authors: ["Chaitanya Afle", "Anuradha Gupta", "B. U. Gadre", "P. Kumar", "N. Demos", "Geoffrey Lovelace", "Han Gil Choi", "Hyung Mok Lee", "Sanjit Mitra", "Michael Boyle", "Daniel A. Hemberger", "Larry Kidder", "Harald Pfeiffer", "Mark Scheel", "Béla Szilágyi"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "98"

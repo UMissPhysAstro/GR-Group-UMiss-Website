@@ -3,8 +3,8 @@ generated: true
 title: "Ray-tracing in relativistic jet simulations: A polarimetric study of magnetic field morphology and electron scaling relations"
 date: "2021-09-23"
 year: 2021
-authors_display: "Joana A. Kramer, Nicholas R. MacDonald"
-authors: ["Joana A. Kramer", "Nicholas R. MacDonald"]
+authors_display: "Joana A. Kramer, Nicholas Roy Macdonald"
+authors: ["Joana A. Kramer", "Nicholas Roy Macdonald"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "656"

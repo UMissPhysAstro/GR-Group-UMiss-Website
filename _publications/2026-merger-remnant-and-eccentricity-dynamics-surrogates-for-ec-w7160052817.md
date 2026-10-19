@@ -4,7 +4,7 @@ title: "Merger remnant and eccentricity dynamics surrogates for eccentric nonspi
 date: "2026-04-30"
 year: 2026
 authors_display: "Adhrit Ravichandran, Peter James Nee, Keefe Mitman, Tousif Islam, Scott E. Field, Vijay Varma, Michael Boyle, A. Ceja, and 17 collaborators"
-authors: ["Adhrit Ravichandran", "Peter James Nee", "Keefe Mitman", "Tousif Islam", "Scott E. Field", "Vijay Varma", "Michael Boyle", "A. Ceja", "Nils Deppe", "Noora Ghadiri", "Lawrence E. Kidder", "Prayush Kumar", "Marlo Morales", "Jordan Moxon", "Kyle C. Nelli", "Harald Pfeiffer", "A. Ramos-Buades", "K. Rink", "Hannes R. Rüter", "Mark Scheel", "Md Arif Shaikh", "Leo C. Stein", "Daniel Tellez", "William Throwe", "Nils L. Vu"]
+authors: ["Adhrit Ravichandran", "Peter James Nee", "Keefe Mitman", "Tousif Islam", "Scott E. Field", "Vijay Varma", "Michael Boyle", "A. Ceja", "Nils Deppe", "Noora Ghadiri", "Lawrence E. Kidder", "Prayush Kumar", "Marlo Morales", "Jordan Moxon", "Kyle C. Nelli", "Harald Pfeiffer", "A. Ramos-Buades", "K. Rink", "Hannes Robert Rüter", "Mark Scheel", "Md Arif Shaikh", "Leo C. Stein", "Daniel Tellez", "William Throwe", "Nils L. Vu"]
 group_authors: ["Leo C. Stein"]
 venue: "arXiv (Cornell University)"
 volume: ""

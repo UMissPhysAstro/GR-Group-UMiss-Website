@@ -3,8 +3,8 @@ generated: true
 title: "Through the Ring of Fire: A Study of the Origin of Orphan Gamma-ray Flares in Blazars"
 date: "2014-06-01"
 year: 2014
-authors_display: "Nicholas R. MacDonald, Alan P. Marscher, Svetlana G. Jorstad, M. Joshi"
-authors: ["Nicholas R. MacDonald", "Alan P. Marscher", "Svetlana G. Jorstad", "M. Joshi"]
+authors_display: "Nicholas Roy Macdonald, Alan P. Marscher, Svetlana G. Jorstad, M. Joshi"
+authors: ["Nicholas Roy Macdonald", "Alan P. Marscher", "Svetlana G. Jorstad", "M. Joshi"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "AAS"
 volume: "224"

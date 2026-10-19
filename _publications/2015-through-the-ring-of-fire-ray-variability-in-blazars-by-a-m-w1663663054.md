@@ -3,8 +3,8 @@ generated: true
 title: "THROUGH THE RING OF FIRE: γ -RAY VARIABILITY IN BLAZARS BY A MOVING PLASMOID PASSING A LOCAL SOURCE OF SEED PHOTONS"
 date: "2015-05-07"
 year: 2015
-authors_display: "Nicholas R. MacDonald, Alan P. Marscher, S. G. Jorstad, Manasvita Joshi"
-authors: ["Nicholas R. MacDonald", "Alan P. Marscher", "S. G. Jorstad", "Manasvita Joshi"]
+authors_display: "Nicholas Roy Macdonald, Alan P. Marscher, Svetlana G. Jorstad, M. Joshi"
+authors: ["Nicholas Roy Macdonald", "Alan P. Marscher", "Svetlana G. Jorstad", "M. Joshi"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "The Astrophysical Journal"
 volume: "804"

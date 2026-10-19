@@ -3,8 +3,8 @@ generated: true
 title: "Constraining gravitational wave amplitude birefringence and Chern-Simons gravity with GWTC-2"
 date: "2022-08-29"
 year: 2022
-authors_display: "Maria Okounkova, Will M. Farr, M. Isi, Leo C. Stein"
-authors: ["Maria Okounkova", "Will M. Farr", "M. Isi", "Leo C. Stein"]
+authors_display: "Maria Okounkova, Will Meierjurgen Farr, M. Isi, Leo C. Stein"
+authors: ["Maria Okounkova", "Will Meierjurgen Farr", "M. Isi", "Leo C. Stein"]
 group_authors: ["Leo C. Stein"]
 venue: "Physical review. D/Physical review. D."
 volume: "106"

@@ -4,7 +4,7 @@ title: "Kinematics of Parsec-scale Jets of Gamma-Ray Blazars at 43 GHz within th
 date: "2017-09-05"
 year: 2017
 authors_display: "Svetlana G. Jorstad, Alan P. Marscher, Daria A. Morozova, Ivan S. Troitsky, I. Agudo, C. Casadio, Adi Foord, José Luis Gómez, and 5 collaborators"
-authors: ["Svetlana G. Jorstad", "Alan P. Marscher", "Daria A. Morozova", "Ivan S. Troitsky", "I. Agudo", "C. Casadio", "Adi Foord", "José Luis Gómez", "Nicholas R. MacDonald", "S. N. Molina", "Anne Lähteenmäki", "J. Tammi", "M. Tornikoski"]
+authors: ["Svetlana G. Jorstad", "Alan P. Marscher", "Daria A. Morozova", "Ivan S. Troitsky", "I. Agudo", "C. Casadio", "Adi Foord", "José Luis Gómez", "Nicholas Roy Macdonald", "S. N. Molina", "Anne Lähteenmäki", "J. Tammi", "M. Tornikoski"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "The Astrophysical Journal"
 volume: "846"

@@ -3,8 +3,8 @@ generated: true
 title: "Locating the $γ$-ray emitting region in the quasar 4C +01.28"
 date: "2021-12-16"
 year: 2021
-authors_display: "F. Rösch, M. Kadler, Eduardo Ros, Mark Gurwell, T. Hovatta, M. Kreter, Nicholas R. MacDonald, Anthony C. S. Readhead"
-authors: ["F. Rösch", "M. Kadler", "Eduardo Ros", "Mark Gurwell", "T. Hovatta", "M. Kreter", "Nicholas R. MacDonald", "Anthony C. S. Readhead"]
+authors_display: "F. Rösch, M. Kadler, Eduardo Ros, Mark Gurwell, T. Hovatta, M. Kreter, Nicholas Roy Macdonald, Anthony C. S. Readhead"
+authors: ["F. Rösch", "M. Kadler", "Eduardo Ros", "Mark Gurwell", "T. Hovatta", "M. Kreter", "Nicholas Roy Macdonald", "Anthony C. S. Readhead"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "arXiv (Cornell University)"
 volume: ""

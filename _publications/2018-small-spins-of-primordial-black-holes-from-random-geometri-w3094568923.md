@@ -3,8 +3,8 @@ generated: true
 title: "Small Spins of Primordial Black Holes from Random Geometries: Bekenstein-Hawking Entropy and Gravitational Wave Observations"
 date: "2018-12-12"
 year: 2018
-authors_display: "Eugenio Bianchi, Anuradha Gupta, Hal M. Haggard, Bangalore S Sathyaprakash"
-authors: ["Eugenio Bianchi", "Anuradha Gupta", "Hal M. Haggard", "Bangalore S Sathyaprakash"]
+authors_display: "Eugenio Bianchi A, Anuradha Gupta, Hal M. Haggard, Bangalore S Sathyaprakash"
+authors: ["Eugenio Bianchi A", "Anuradha Gupta", "Hal M. Haggard", "Bangalore S Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "arXiv (Cornell University)"
 volume: ""

@@ -3,8 +3,8 @@ generated: true
 title: "3D PIC Simulations for relativistic jets with a toroidal magnetic field"
 date: "2022-12-13"
 year: 2022
-authors_display: "Athina Meli, Ken‐Ichi Nishikawa, Christoph Köhn, I. Duţan, Yosuke Mizuno, Oleh Kobzar, Nicholas R. MacDonald, José Luis Gómez, Kouichi Hirotani"
-authors: ["Athina Meli", "Ken‐Ichi Nishikawa", "Christoph Köhn", "I. Duţan", "Yosuke Mizuno", "Oleh Kobzar", "Nicholas R. MacDonald", "José Luis Gómez", "Kouichi Hirotani"]
+authors_display: "Athina Meli, Ken‐Ichi Nishikawa, Christoph Köhn, I. Duţan, Yosuke Mizuno, Oleh Kobzar, Nicholas Roy Macdonald, José Luis Gómez, Kouichi Hirotani"
+authors: ["Athina Meli", "Ken‐Ichi Nishikawa", "Christoph Köhn", "I. Duţan", "Yosuke Mizuno", "Oleh Kobzar", "Nicholas Roy Macdonald", "José Luis Gómez", "Kouichi Hirotani"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Monthly Notices of the Royal Astronomical Society"
 volume: "519"

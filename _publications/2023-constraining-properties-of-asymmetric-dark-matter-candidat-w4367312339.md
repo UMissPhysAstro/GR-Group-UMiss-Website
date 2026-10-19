@@ -3,8 +3,8 @@ generated: true
 title: "Constraining properties of asymmetric dark matter candidates from gravitational-wave observations"
 date: "2023-04-28"
 year: 2023
-authors_display: "D. Singh, Anuradha Gupta, Emanuele Berti, Sanjay Reddy, B. S. Sathyaprakash"
-authors: ["D. Singh", "Anuradha Gupta", "Emanuele Berti", "Sanjay Reddy", "B. S. Sathyaprakash"]
+authors_display: "D. Singh, Anuradha Gupta, Emanuele Berti, Sanjay K. Reddy, B. S. Sathyaprakash"
+authors: ["D. Singh", "Anuradha Gupta", "Emanuele Berti", "Sanjay K. Reddy", "B. S. Sathyaprakash"]
 group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "107"

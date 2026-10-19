@@ -3,8 +3,8 @@ generated: true
 title: "From Electrons to Janskys: Synthetic Imaging of 3D Relativistic Jet Simulations"
 date: "2018-11-01"
 year: 2018
-authors_display: "Nicholas R. MacDonald"
-authors: ["Nicholas R. MacDonald"]
+authors_display: "Nicholas Roy Macdonald"
+authors: ["Nicholas Roy Macdonald"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "evn"
 volume: ""
