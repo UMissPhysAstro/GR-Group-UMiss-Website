@@ -9,7 +9,7 @@ group_authors: ["Leo C. Stein"]
 venue: "General Relativity and Gravitation"
 volume: "52"
 issue: "8"
-pages: ""
+pages: "81"
 doi: "10.1007/s10714-020-02691-1"
 arxiv: "2001.09793"
 openalex: "https://openalex.org/W3002140674"

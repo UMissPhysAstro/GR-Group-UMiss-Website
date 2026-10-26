@@ -9,7 +9,7 @@ group_authors: ["Anuradha Gupta"]
 venue: "SciPost Physics Community Reports"
 volume: ""
 issue: ""
-pages: ""
+pages: "5"
 doi: "10.21468/scipostphyscommrep.5"
 arxiv: "2405.02197"
 openalex: "https://openalex.org/W4396786004"

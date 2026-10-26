@@ -9,7 +9,7 @@ group_authors: ["Leo C. Stein"]
 venue: "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields"
 volume: "85"
 issue: "12"
-pages: ""
+pages: "122007"
 doi: "10.1103/physrevd.85.122007"
 arxiv: "1202.2788"
 openalex: "https://openalex.org/W2128895561"

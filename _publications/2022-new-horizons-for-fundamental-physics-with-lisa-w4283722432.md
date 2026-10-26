@@ -9,7 +9,7 @@ group_authors: ["Leo C. Stein"]
 venue: "Living Reviews in Relativity"
 volume: "25"
 issue: "1"
-pages: ""
+pages: "4"
 doi: "10.1007/s41114-022-00036-9"
 arxiv: "2205.01597"
 openalex: "https://openalex.org/W4283722432"

@@ -9,7 +9,7 @@ group_authors: ["Amitesh Singh", "Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "114"
 issue: "2"
-pages: ""
+pages: "022001"
 doi: "10.1103/wgp7-t8r8"
 arxiv: "2510.17487"
 openalex: "https://openalex.org/W4415964452"

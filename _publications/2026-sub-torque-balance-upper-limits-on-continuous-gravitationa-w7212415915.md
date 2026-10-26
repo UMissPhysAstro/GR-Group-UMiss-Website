@@ -13,7 +13,7 @@ pages: "L23"
 doi: "10.3847/2041-8213/aea296"
 arxiv: ""
 openalex: "https://openalex.org/W7212415915"
-pdf: ""
+pdf: "https://eprints.whiterose.ac.uk/id/eprint/247010/1/Abac_2026_ApJL_1010_L23.pdf"
 work_type: "article"
 ---
 

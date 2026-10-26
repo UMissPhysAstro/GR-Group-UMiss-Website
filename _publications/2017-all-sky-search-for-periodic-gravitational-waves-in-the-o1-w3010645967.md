@@ -9,7 +9,7 @@ group_authors: ["Amitesh Singh"]
 venue: "Physical review. D/Physical review. D."
 volume: "96"
 issue: "6"
-pages: ""
+pages: "062002"
 doi: "10.1103/physrevd.96.062002"
 arxiv: "1707.02667"
 openalex: "https://openalex.org/W3010645967"

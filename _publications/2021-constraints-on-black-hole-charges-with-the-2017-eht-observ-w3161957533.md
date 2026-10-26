@@ -9,7 +9,7 @@ group_authors: ["Nicholas R. MacDonald"]
 venue: "Physical review. D/Physical review. D."
 volume: "103"
 issue: "10"
-pages: ""
+pages: "104047"
 doi: "10.1103/physrevd.103.104047"
 arxiv: "2105.09343"
 openalex: "https://openalex.org/W3161957533"
