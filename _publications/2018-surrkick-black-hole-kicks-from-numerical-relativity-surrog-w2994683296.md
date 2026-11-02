@@ -6,7 +6,7 @@ year: 2018
 authors_display: "Davide Gerosa, François Hébert, Leo C. Stein"
 authors: ["Davide Gerosa", "François Hébert", "Leo C. Stein"]
 group_authors: ["Leo C. Stein"]
-venue: ""
+venue: "Astrophysics Source Code Library"
 volume: ""
 issue: ""
 pages: ""

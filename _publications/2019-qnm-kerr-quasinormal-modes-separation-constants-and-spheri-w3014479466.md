@@ -6,7 +6,7 @@ year: 2019
 authors_display: "Leo C. Stein"
 authors: ["Leo C. Stein"]
 group_authors: ["Leo C. Stein"]
-venue: ""
+venue: "Astrophysics Source Code Library"
 volume: ""
 issue: ""
 pages: ""

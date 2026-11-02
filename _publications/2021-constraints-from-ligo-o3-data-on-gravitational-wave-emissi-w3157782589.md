@@ -11,9 +11,9 @@ volume: "922"
 issue: "1"
 pages: "71"
 doi: "10.3847/1538-4357/ac0d52"
-arxiv: ""
+arxiv: "2104.14417"
 openalex: "https://openalex.org/W3157782589"
-pdf: "https://www.zora.uzh.ch/id/eprint/211135/1/Abbott_2021_ApJ_922_71.pdf"
+pdf: "https://arxiv.org/pdf/2104.14417"
 work_type: "article"
 ---
 

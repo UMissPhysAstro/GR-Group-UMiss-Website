@@ -3,8 +3,8 @@ generated: true
 title: "Nature's Death Stars: A Discussion of Supermassive Black Holes, Relativistic Jets, and The Event Horizon Telescope."
 date: "2021-01-01"
 year: 2021
-authors_display: "Nicholas Roy Macdonald"
-authors: ["Nicholas Roy Macdonald"]
+authors_display: "Nicholas R. MacDonald"
+authors: ["Nicholas R. MacDonald"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "43rd COSPAR Scientific Assembly. Held 28 January - 4 February"
 volume: "43"

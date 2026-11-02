@@ -6,7 +6,7 @@ year: 2018
 authors_display: "Vijay Varma, Leo C. Stein, Davide Gerosa"
 authors: ["Vijay Varma", "Leo C. Stein", "Davide Gerosa"]
 group_authors: ["Leo C. Stein"]
-venue: ""
+venue: "Astrophysics Source Code Library"
 volume: ""
 issue: ""
 pages: ""

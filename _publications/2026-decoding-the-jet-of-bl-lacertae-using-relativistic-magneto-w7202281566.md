@@ -3,8 +3,8 @@ generated: true
 title: "Decoding the jet of BL Lacertae using relativistic magneto-hydrodynamics"
 date: "2026-08-17"
 year: 2026
-authors_display: "Georgios Filippos Paraschos, Joana A. Kramer, Ioannis Liodakis, Svetlana G. Jorstad, Alan P. Marscher, I. Myserlis, I. Agudo, Nicholas Roy Macdonald"
-authors: ["Georgios Filippos Paraschos", "Joana A. Kramer", "Ioannis Liodakis", "Svetlana G. Jorstad", "Alan P. Marscher", "I. Myserlis", "I. Agudo", "Nicholas Roy Macdonald"]
+authors_display: "Georgios Filippos Paraschos, Joana A. Kramer, Ioannis Liodakis, Svetlana G. Jorstad, Alan P. Marscher, I. Myserlis, I. Agudo, Nicholas R. MacDonald"
+authors: ["Georgios Filippos Paraschos", "Joana A. Kramer", "Ioannis Liodakis", "Svetlana G. Jorstad", "Alan P. Marscher", "I. Myserlis", "I. Agudo", "Nicholas R. MacDonald"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "714"

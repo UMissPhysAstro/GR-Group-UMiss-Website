@@ -14,7 +14,7 @@ doi: "10.1007/s10714-014-1796-x"
 arxiv: ""
 openalex: "https://openalex.org/W1971299638"
 pdf: "https://link.springer.com/content/pdf/10.1007/s10714-014-1796-x.pdf"
-work_type: "article"
+work_type: "review"
 ---
 
 <!-- This file is maintained by scripts/fetch_publications.py. -->

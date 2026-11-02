@@ -4,7 +4,7 @@ title: "Spectral index evolution of the limb-brightened jet in 3C 84"
 date: "2026-05-13"
 year: 2026
 authors_display: "Lena C. Debbrecht, Georgios Filippos Paraschos, Eduardo Ros, T. P. Krichbaum, U. Bach, Mark Gurwell, Jeffrey Adam Hodgson, M. Janssen, and 6 collaborators"
-authors: ["Lena C. Debbrecht", "Georgios Filippos Paraschos", "Eduardo Ros", "T. P. Krichbaum", "U. Bach", "Mark Gurwell", "Jeffrey Adam Hodgson", "M. Janssen", "J.-Y. Kim", "Mikhail Lisakov", "Nicholas Roy Macdonald", "D. G. Nair", "Junghwan Oh", "J. A. Zensus"]
+authors: ["Lena C. Debbrecht", "Georgios Filippos Paraschos", "Eduardo Ros", "T. P. Krichbaum", "U. Bach", "Mark Gurwell", "Jeffrey Adam Hodgson", "M. Janssen", "J.-Y. Kim", "Mikhail Lisakov", "Nicholas R. MacDonald", "D. G. Nair", "Junghwan Oh", "J. A. Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Springer Link (Chiba Institute of Technology)"
 volume: ""
