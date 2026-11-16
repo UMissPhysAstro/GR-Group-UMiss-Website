@@ -11,9 +11,9 @@ volume: "1007"
 issue: "1"
 pages: "L17"
 doi: "10.3847/2041-8213/ae69dd"
-arxiv: ""
+arxiv: "2509.04348"
 openalex: "https://openalex.org/W7172494905"
-pdf: "https://eprints.gla.ac.uk/394162/1/394162.pdf"
+pdf: "http://arxiv.org/pdf/2509.04348"
 work_type: "article"
 ---
 

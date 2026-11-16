@@ -11,9 +11,9 @@ volume: "682"
 issue: ""
 pages: "A154"
 doi: "10.1051/0004-6361/202347267"
-arxiv: ""
+arxiv: "2312.15556"
 openalex: "https://openalex.org/W4389330867"
-pdf: "https://www.aanda.org/10.1051/0004-6361/202347267/pdf"
+pdf: "https://arxiv.org/pdf/2312.15556"
 work_type: "article"
 ---
 

@@ -13,7 +13,7 @@ pages: ""
 doi: "10.1103/physrevd.83.042001"
 arxiv: ""
 openalex: "https://openalex.org/W1570647371"
-pdf: "https://digitalcommons.lsu.edu/physics_astronomy_pubs/1156"
+pdf: "https://hdl.handle.net/11858/00-001M-0000-0011-515B-9"
 work_type: "article"
 ---
 

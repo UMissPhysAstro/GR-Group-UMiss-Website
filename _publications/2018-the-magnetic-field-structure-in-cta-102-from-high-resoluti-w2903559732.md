@@ -3,8 +3,8 @@ generated: true
 title: "The magnetic field structure in CTA 102 from high-resolution mm-VLBI observations during the flaring state in 2016–2017"
 date: "2018-12-25"
 year: 2018
-authors_display: "Carolina Casadio, Alan P. Marscher, Svetlana G. Jorstad, Dmitry A. Blinov, Nicholas R. MacDonald, Thomas P. Krichbaum, Biagina Boccardi, Efthalia Traianou, and 9 collaborators"
-authors: ["Carolina Casadio", "Alan P. Marscher", "Svetlana G. Jorstad", "Dmitry A. Blinov", "Nicholas R. MacDonald", "Thomas P. Krichbaum", "Biagina Boccardi", "Efthalia Traianou", "José L. Gómez", "I. Agudo", "Bong-Won Sohn", "Michael Bremer", "Jeffrey Hodgson", "Juha Kallunki", "Jae-Young Kim", "Karen E. Williamson", "J. Anton Zensus"]
+authors_display: "C. Casadio, Alan P. Marscher, Svetlana G. Jorstad, Dmitry A. Blinov, Nicholas R. MacDonald, Thomas P. Krichbaum, Biagina Boccardi, Efthalia Traianou, and 9 collaborators"
+authors: ["C. Casadio", "Alan P. Marscher", "Svetlana G. Jorstad", "Dmitry A. Blinov", "Nicholas R. MacDonald", "Thomas P. Krichbaum", "Biagina Boccardi", "Efthalia Traianou", "José L. Gómez", "I. Agudo", "Bong-Won Sohn", "Michael Bremer", "Jeffrey Hodgson", "Juha Kallunki", "Jae-Young Kim", "Karen E. Williamson", "J. Anton Zensus"]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "Astronomy and Astrophysics"
 volume: "622"

@@ -9,11 +9,11 @@ group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "114"
 issue: "2"
-pages: ""
+pages: "022006"
 doi: "10.1103/mjfs-m6t7"
 arxiv: "2509.07352"
 openalex: "https://openalex.org/W4415058131"
-pdf: "https://arxiv.org/pdf/2509.07352"
+pdf: "http://arxiv.org/pdf/2509.07352"
 work_type: "article"
 ---
 

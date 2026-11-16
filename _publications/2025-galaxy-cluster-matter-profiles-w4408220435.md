@@ -1,6 +1,6 @@
 ---
 generated: true
-title: "Galaxy cluster matter profiles"
+title: "Galaxy cluster matter profiles: I. Self-similarity, mass calibration, and observable-mass relation validation employing cluster mass posteriors"
 date: "2025-03-01"
 year: 2025
 authors_display: "Amitesh Singh, Joseph J. Mohr, Christopher T Davies, S. Bocquet, S. Grandis, Matthias Klein, Jennifer L. Marshall, M. Aguena, and 45 collaborators"
@@ -11,9 +11,9 @@ volume: "695"
 issue: ""
 pages: "A49"
 doi: "10.1051/0004-6361/202451516"
-arxiv: ""
+arxiv: "2407.10961"
 openalex: "https://openalex.org/W4408220435"
-pdf: "https://eprints.soton.ac.uk/501241/2/aa51516-24.pdf"
+pdf: "https://arxiv.org/pdf/2407.10961"
 work_type: "article"
 ---
 
