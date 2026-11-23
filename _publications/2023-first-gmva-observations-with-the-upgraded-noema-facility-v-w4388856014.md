@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "First GMVA observations with the upgraded NOEMA facility: VLBI imaging of BL Lacertae in a flaring state"
-date: "2023-11-21"
+date: "2023-12-01"
 year: 2023
 authors_display: "Dae-Won Kim, Michaël Janssen, T. P. Krichbaum, Bia Boccardi, Nicholas R. MacDonald, Eduardo Ros, Andrei P. Lobanov, J. A. Zensus"
 authors: ["Dae-Won Kim", "Michaël Janssen", "T. P. Krichbaum", "Bia Boccardi", "Nicholas R. MacDonald", "Eduardo Ros", "Andrei P. Lobanov", "J. A. Zensus"]

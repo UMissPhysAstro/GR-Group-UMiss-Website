@@ -9,7 +9,7 @@ group_authors: ["James Bonifacio"]
 venue: "Physical review. D/Physical review. D."
 volume: "99"
 issue: "2"
-pages: ""
+pages: "024037"
 doi: "10.1103/physrevd.99.024037"
 arxiv: "1806.00483"
 openalex: "https://openalex.org/W2806218203"

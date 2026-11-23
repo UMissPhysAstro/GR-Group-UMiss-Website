@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "From electrons to Janskys: Full stokes polarized radiative transfer in 3D relativistic particle-in-cell jet simulations"
-date: "2021-06-15"
+date: "2021-09-01"
 year: 2021
 authors_display: "Nicholas R. MacDonald, Ken‐Ichi Nishikawa"
 authors: ["Nicholas R. MacDonald", "Ken‐Ichi Nishikawa"]

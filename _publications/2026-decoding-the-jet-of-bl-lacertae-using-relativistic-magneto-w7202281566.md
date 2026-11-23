@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Decoding the jet of BL Lacertae using relativistic magneto-hydrodynamics"
-date: "2026-08-17"
+date: "2026-10-01"
 year: 2026
 authors_display: "Georgios Filippos Paraschos, Joana A. Kramer, Ioannis Liodakis, Svetlana G. Jorstad, Alan P. Marscher, I. Myserlis, I. Agudo, Nicholas R. MacDonald"
 authors: ["Georgios Filippos Paraschos", "Joana A. Kramer", "Ioannis Liodakis", "Svetlana G. Jorstad", "Alan P. Marscher", "I. Myserlis", "I. Agudo", "Nicholas R. MacDonald"]

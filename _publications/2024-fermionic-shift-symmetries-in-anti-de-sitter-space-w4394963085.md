@@ -9,7 +9,7 @@ group_authors: ["James Bonifacio"]
 venue: "Journal of High Energy Physics"
 volume: "2024"
 issue: "4"
-pages: ""
+pages: "100"
 doi: "10.1007/jhep04(2024)100"
 arxiv: "2312.06743"
 openalex: "https://openalex.org/W4394963085"

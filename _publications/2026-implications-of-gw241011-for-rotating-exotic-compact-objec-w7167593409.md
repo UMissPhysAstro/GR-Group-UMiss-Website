@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Implications of GW241011 for Rotating Exotic Compact Objects"
-date: "2026-07-07"
+date: "2026-08-14"
 year: 2026
 authors_display: "N. V. Krishnendu, Tamara Evstafyeva, A. Vijaykumar, William E. East, Rimo Das, Sayantani Datta, Nils Peter Siemonsen, N. Uchikata, and 12 collaborators"
 authors: ["N. V. Krishnendu", "Tamara Evstafyeva", "A. Vijaykumar", "William E. East", "Rimo Das", "Sayantani Datta", "Nils Peter Siemonsen", "N. Uchikata", "Poulami Dutta Roy", "Anuradha Gupta", "Ish Gupta", "Syed U. Naqvi", "Manuel Piarulli", "M. Saleem", "E. M. Sänger", "Pratyusava Baral", "Sajad A. Bhat", "T. A. Callister", "M. Emma", "C.‐J. Haster"]
@@ -13,7 +13,7 @@ pages: "071402"
 doi: "10.1103/29y5-nx9y"
 arxiv: "2511.17341"
 openalex: "https://openalex.org/W7167593409"
-pdf: "http://arxiv.org/pdf/2511.17341"
+pdf: "http://link.aps.org/pdf/10.1103/29y5-nx9y"
 work_type: "article"
 ---
 

@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Black hole based tests of general relativity"
-date: "2016-02-04"
+date: "2016-02-05"
 year: 2016
 authors_display: "Kent Yagi, Leo C. Stein"
 authors: ["Kent Yagi", "Leo C. Stein"]

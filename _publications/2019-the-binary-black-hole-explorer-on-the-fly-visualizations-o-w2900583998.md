@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "The binary black hole explorer: on-the-fly visualizations of precessing binary black holes"
-date: "2019-03-12"
+date: "2019-04-08"
 year: 2019
 authors_display: "Vijay Varma, Leo C. Stein, Davide Gerosa"
 authors: ["Vijay Varma", "Leo C. Stein", "Davide Gerosa"]

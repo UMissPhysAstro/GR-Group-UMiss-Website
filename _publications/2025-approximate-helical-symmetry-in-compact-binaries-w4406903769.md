@@ -9,7 +9,7 @@ group_authors: ["Aniket Khairnar", "Leo C. Stein"]
 venue: "Physical review. D/Physical review. D."
 volume: "111"
 issue: "2"
-pages: ""
+pages: "024072"
 doi: "10.1103/physrevd.111.024072"
 arxiv: "2410.16373"
 openalex: "https://openalex.org/W4406903769"

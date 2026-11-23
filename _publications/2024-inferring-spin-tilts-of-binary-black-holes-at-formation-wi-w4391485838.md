@@ -9,7 +9,7 @@ group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D/Physical review. D."
 volume: "109"
 issue: "4"
-pages: ""
+pages: "043002"
 doi: "10.1103/physrevd.109.043002"
 arxiv: "2308.05098"
 openalex: "https://openalex.org/W4391485838"

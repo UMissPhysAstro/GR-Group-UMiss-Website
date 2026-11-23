@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Tidally-induced nonlinear resonances in EMRIs with an analogue model"
-date: "2023-09-25"
+date: "2023-10-10"
 year: 2023
 authors_display: "David Bronicki, Alejandro Cárdenas-Avendaño, Leo C. Stein"
 authors: ["David Bronicki", "Alejandro Cárdenas-Avendaño", "Leo C. Stein"]

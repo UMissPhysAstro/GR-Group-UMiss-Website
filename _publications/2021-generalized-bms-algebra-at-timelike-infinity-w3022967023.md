@@ -9,7 +9,7 @@ group_authors: ["Aniket Khairnar"]
 venue: "Physical review. D/Physical review. D."
 volume: "103"
 issue: "10"
-pages: ""
+pages: "104030"
 doi: "10.1103/physrevd.103.104030"
 arxiv: "2005.05209"
 openalex: "https://openalex.org/W3022967023"

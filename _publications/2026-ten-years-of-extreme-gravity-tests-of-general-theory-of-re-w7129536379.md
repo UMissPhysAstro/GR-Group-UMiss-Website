@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Ten years of extreme gravity tests of general theory of relativity with gravitational-wave observations"
-date: "2026-02-17"
+date: "2026-03-13"
 year: 2026
 authors_display: "Anuradha Gupta"
 authors: ["Anuradha Gupta"]

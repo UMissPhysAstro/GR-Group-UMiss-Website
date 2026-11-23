@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "The SXS collaboration catalog of binary black hole simulations"
-date: "2019-07-25"
+date: "2019-09-11"
 year: 2019
 authors_display: "Michael Boyle, Daniel A. Hemberger, Dante A. B. Iozzo, Geoffrey Lovelace, Serguei Ossokine, Harald Pfeiffer, Mark Scheel, Leo C. Stein, and 32 collaborators"
 authors: ["Michael Boyle", "Daniel A. Hemberger", "Dante A. B. Iozzo", "Geoffrey Lovelace", "Serguei Ossokine", "Harald Pfeiffer", "Mark Scheel", "Leo C. Stein", "Charles J. Woodford", "Aaron Zimmerman", "Nousha Afshari", "Kevin Barkett", "Jonathan Blackman", "Katerina Chatziioannou", "Tony Chu", "N. Demos", "Nils Deppe", "Scott E. Field", "Nils L Fischer", "E. Foley", "Heather Fong", "Alyssa Garcia", "Matthew Giesler", "François Hébert", "Ian Hinder", "Reza Katebi", "Haroon Khan", "Larry Kidder", "P. Kumar", "Kevin Kuper", "Halston Lim", "Maria Okounkova", "Teresita Ramirez", "S. Rodriguez", "Hannes R. Rüter", "Patricia Schmidt", "Béla Szilágyi", "Saul A. Teukolsky", "Vijay Varma", "M. Walker"]

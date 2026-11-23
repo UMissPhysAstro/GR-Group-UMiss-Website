@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Exploring the disk-jet connection in NGC 315"
-date: "2022-07-12"
+date: "2022-08-01"
 year: 2022
 authors_display: "L. Ricci, Bia Boccardi, Elena E. Nokhrina, M. Perucho, Nicholas R. MacDonald, Giancarlo Mattia, P. Grandi, E. Madika, T. P. Krichbaum, J. A. Zensus"
 authors: ["L. Ricci", "Bia Boccardi", "Elena E. Nokhrina", "M. Perucho", "Nicholas R. MacDonald", "Giancarlo Mattia", "P. Grandi", "E. Madika", "T. P. Krichbaum", "J. A. Zensus"]

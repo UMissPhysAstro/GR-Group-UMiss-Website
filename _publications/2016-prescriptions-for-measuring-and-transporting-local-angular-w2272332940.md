@@ -9,7 +9,7 @@ group_authors: ["Leo C. Stein"]
 venue: "Physical review. D/Physical review. D."
 volume: "93"
 issue: "10"
-pages: ""
+pages: "104007"
 doi: "10.1103/physrevd.93.104007"
 arxiv: "1602.01847"
 openalex: "https://openalex.org/W2272332940"

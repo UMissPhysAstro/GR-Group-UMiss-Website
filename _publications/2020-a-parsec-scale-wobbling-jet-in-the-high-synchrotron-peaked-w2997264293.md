@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "A parsec-scale wobbling jet in the high-synchrotron peaked blazar PG 1553+113"
-date: "2020-01-04"
+date: "2020-02-01"
 year: 2020
 authors_display: "Rocco Lico, J. Liu, M. Giroletti, M. Orienti, José Luis Gómez, B. G. Piner, Nicholas R. MacDonald, Filippo D'Ammando, Antonio Fuentes"
 authors: ["Rocco Lico", "J. Liu", "M. Giroletti", "M. Orienti", "José Luis Gómez", "B. G. Piner", "Nicholas R. MacDonald", "Filippo D'Ammando", "Antonio Fuentes"]

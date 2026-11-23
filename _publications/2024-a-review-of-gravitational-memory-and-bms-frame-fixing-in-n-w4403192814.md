@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "A review of gravitational memory and BMS frame fixing in numerical relativity"
-date: "2024-10-07"
+date: "2024-10-22"
 year: 2024
 authors_display: "Keefe Mitman, Michael Boyle, Leo C. Stein, Nils Deppe, Larry Kidder, Jordan Moxon, Harald Pfeiffer, Mark Scheel, Saul A. Teukolsky, William Throwe, Nils L. Vu"
 authors: ["Keefe Mitman", "Michael Boyle", "Leo C. Stein", "Nils Deppe", "Larry Kidder", "Jordan Moxon", "Harald Pfeiffer", "Mark Scheel", "Saul A. Teukolsky", "William Throwe", "Nils L. Vu"]

@@ -9,7 +9,7 @@ group_authors: ["James Bonifacio"]
 venue: "Journal of High Energy Physics"
 volume: "2018"
 issue: "6"
-pages: ""
+pages: "75"
 doi: "10.1007/jhep06(2018)075"
 arxiv: "1712.10020"
 openalex: "https://openalex.org/W2776260049"

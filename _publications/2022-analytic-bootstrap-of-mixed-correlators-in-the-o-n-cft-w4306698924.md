@@ -9,7 +9,7 @@ group_authors: ["Francesco Bertucci"]
 venue: "Journal of High Energy Physics"
 volume: "2022"
 issue: "10"
-pages: ""
+pages: "104"
 doi: "10.1007/jhep10(2022)104"
 arxiv: "2205.09132"
 openalex: "https://openalex.org/W4306698924"

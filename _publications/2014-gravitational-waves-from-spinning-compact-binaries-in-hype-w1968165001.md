@@ -9,11 +9,11 @@ group_authors: ["Anuradha Gupta"]
 venue: "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields"
 volume: "90"
 issue: "12"
-pages: ""
+pages: "124066"
 doi: "10.1103/physrevd.90.124066"
 arxiv: "1410.6311"
 openalex: "https://openalex.org/W1968165001"
-pdf: "https://www.zora.uzh.ch/id/eprint/108164/1/1410.6311v3.pdf"
+pdf: "https://arxiv.org/pdf/1410.6311"
 work_type: "article"
 ---
 

@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Can a radiation gauge be horizon-locking?"
-date: "2024-06-10"
+date: "2024-07-08"
 year: 2024
 authors_display: "Leo C. Stein"
 authors: ["Leo C. Stein"]

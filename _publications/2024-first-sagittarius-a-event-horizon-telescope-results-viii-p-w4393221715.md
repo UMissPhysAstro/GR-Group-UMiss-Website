@@ -13,7 +13,7 @@ pages: "L26"
 doi: "10.3847/2041-8213/ad2df1"
 arxiv: ""
 openalex: "https://openalex.org/W4393221715"
-pdf: "https://insu.hal.science/insu-04853459v1/document"
+pdf: "https://iopscience.iop.org/article/10.3847/2041-8213/ad2df1/pdf"
 work_type: "article"
 ---
 

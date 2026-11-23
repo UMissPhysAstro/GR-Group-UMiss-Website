@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Late-Time Tails in Nonlinear Evolutions of Merging Black Holes"
-date: "2025-09-04"
+date: "2025-10-21"
 year: 2025
 authors_display: "Marina De Amicis, Hannes R. Rüter, G. Carullo, Simone Albanesi, C. Melize Ferrus, Keefe Mitman, Leo C. Stein, Vítor Cardoso, and 12 collaborators"
 authors: ["Marina De Amicis", "Hannes R. Rüter", "G. Carullo", "Simone Albanesi", "C. Melize Ferrus", "Keefe Mitman", "Leo C. Stein", "Vítor Cardoso", "Sebastiano Bernuzzi", "Michael Boyle", "Nils Deppe", "Lawrence E. Kidder", "Jordan Moxon", "Alessandro Nagar", "Kyle C. Nelli", "Harald Pfeiffer", "Mark Scheel", "William Throwe", "Nils L. Vu", "Anıl Zenginoğlu"]

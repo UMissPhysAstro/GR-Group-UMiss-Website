@@ -13,7 +13,7 @@ pages: "L51"
 doi: "10.3847/2041-8213/ae771e"
 arxiv: "2508.18083"
 openalex: "https://openalex.org/W7168158497"
-pdf: "https://arxiv.org/pdf/2508.18083"
+pdf: "https://iopscience.iop.org/article/10.3847/2041-8213/ae771e/pdf"
 work_type: "article"
 ---
 

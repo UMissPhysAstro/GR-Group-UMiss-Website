@@ -13,7 +13,7 @@ pages: "84080"
 doi: "10.1103/physrevd.112.084080"
 arxiv: "2112.06861"
 openalex: "https://openalex.org/W4415739261"
-pdf: "https://arxiv.org/pdf/2112.06861"
+pdf: "https://myresearchspace.uws.ac.uk/ws/files/71361928/2022_04_28_Affeldt_et_al_GWTC-3_accepted.pdf"
 work_type: "article"
 ---
 

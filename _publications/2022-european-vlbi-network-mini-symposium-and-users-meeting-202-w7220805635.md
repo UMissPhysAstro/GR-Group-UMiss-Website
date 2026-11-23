@@ -7,7 +7,7 @@ authors_display: "Rösch F., Kadler M., Eduardo Ros, Gurwell M., Hovatta T., M. 
 authors: ["Rösch F.", "Kadler M.", "Eduardo Ros", "Gurwell M.", "Hovatta T.", "M. Kreter", "Nicholas R. MacDonald", "Readhead A.C.S."]
 group_authors: ["Nicholas R. MacDonald"]
 venue: "UTUPub (University of Turku)"
-volume: ""
+volume: "399"
 issue: ""
 pages: ""
 doi: ""

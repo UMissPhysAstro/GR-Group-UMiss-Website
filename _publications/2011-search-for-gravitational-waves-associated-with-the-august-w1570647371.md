@@ -9,11 +9,11 @@ group_authors: ["Leo C. Stein"]
 venue: "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields"
 volume: "83"
 issue: "4"
-pages: ""
+pages: "042001"
 doi: "10.1103/physrevd.83.042001"
 arxiv: ""
 openalex: "https://openalex.org/W1570647371"
-pdf: "https://hdl.handle.net/11858/00-001M-0000-0011-515B-9"
+pdf: "https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=2236&context=physics_astronomy_pubs"
 work_type: "article"
 ---
 

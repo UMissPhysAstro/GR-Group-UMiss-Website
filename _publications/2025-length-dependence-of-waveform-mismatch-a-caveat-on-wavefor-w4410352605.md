@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Length dependence of waveform mismatch: a caveat on waveform accuracy"
-date: "2025-05-14"
+date: "2025-06-04"
 year: 2025
 authors_display: "Keefe Mitman, Leo C. Stein, Michael Boyle, Nils Deppe, Larry Kidder, Harald Pfeiffer, Mark Scheel"
 authors: ["Keefe Mitman", "Leo C. Stein", "Michael Boyle", "Nils Deppe", "Larry Kidder", "Harald Pfeiffer", "Mark Scheel"]

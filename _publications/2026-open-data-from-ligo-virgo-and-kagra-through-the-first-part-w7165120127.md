@@ -13,7 +13,7 @@ pages: "232"
 doi: "10.3847/1538-4357/ae211e"
 arxiv: ""
 openalex: "https://openalex.org/W7165120127"
-pdf: "https://eprints.gla.ac.uk/389797/1/389797.pdf"
+pdf: "https://lirias.kuleuven.be/retrieve/d6f03d0d-5d99-4b6e-b2dc-5fbc29790c5d"
 work_type: "article"
 ---
 

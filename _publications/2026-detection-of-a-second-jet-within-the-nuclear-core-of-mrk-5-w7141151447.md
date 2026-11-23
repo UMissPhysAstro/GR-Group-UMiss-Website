@@ -9,7 +9,7 @@ group_authors: ["Nicholas R. MacDonald"]
 venue: "Monthly Notices of the Royal Astronomical Society"
 volume: "548"
 issue: "4"
-pages: ""
+pages: "stag291"
 doi: "10.1093/mnras/stag291"
 arxiv: ""
 openalex: "https://openalex.org/W7141151447"

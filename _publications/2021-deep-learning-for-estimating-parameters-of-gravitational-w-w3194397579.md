@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Deep learning for estimating parameters of gravitational waves"
-date: "2021-08-20"
+date: "2021-08-24"
 year: 2021
 authors_display: "Shashwat Singh, Amitesh Singh, Ankul Prajapati, Kamlesh Pathak"
 authors: ["Shashwat Singh", "Amitesh Singh", "Ankul Prajapati", "Kamlesh Pathak"]

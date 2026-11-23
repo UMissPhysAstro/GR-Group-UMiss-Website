@@ -9,7 +9,7 @@ group_authors: ["James Bonifacio"]
 venue: "Communications in Mathematical Physics"
 volume: "406"
 issue: "3"
-pages: ""
+pages: "51"
 doi: "10.1007/s00220-024-05222-0"
 arxiv: "2308.11174"
 openalex: "https://openalex.org/W4407629605"

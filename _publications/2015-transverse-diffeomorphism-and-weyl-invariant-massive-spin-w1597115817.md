@@ -9,7 +9,7 @@ group_authors: ["James Bonifacio"]
 venue: "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields"
 volume: "91"
 issue: "12"
-pages: ""
+pages: "125008"
 doi: "10.1103/physrevd.91.125008"
 arxiv: "1501.03159"
 openalex: "https://openalex.org/W1597115817"

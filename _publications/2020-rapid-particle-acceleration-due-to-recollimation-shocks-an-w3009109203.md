@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "Rapid particle acceleration due to recollimation shocks and turbulent magnetic fields in injected jets with helical magnetic fields"
-date: "2020-02-11"
+date: "2020-02-12"
 year: 2020
 authors_display: "Ken‐Ichi Nishikawa, Yosuke Mizuno, José Luis Gómez, I. Duţan, J. Niemiec, Oleh Kobzar, Nicholas R. MacDonald, Athina Meli, Martin Pohl, Kouichi Hirotani"
 authors: ["Ken‐Ichi Nishikawa", "Yosuke Mizuno", "José Luis Gómez", "I. Duţan", "J. Niemiec", "Oleh Kobzar", "Nicholas R. MacDonald", "Athina Meli", "Martin Pohl", "Kouichi Hirotani"]

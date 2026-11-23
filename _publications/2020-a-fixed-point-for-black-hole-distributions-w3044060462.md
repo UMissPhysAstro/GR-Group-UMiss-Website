@@ -1,7 +1,7 @@
 ---
 generated: true
 title: "A fixed point for black hole distributions"
-date: "2020-12-02"
+date: "2020-12-24"
 year: 2020
 authors_display: "José T. Gálvez Ghersi, Leo C. Stein"
 authors: ["José T. Gálvez Ghersi", "Leo C. Stein"]
